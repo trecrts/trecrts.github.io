@@ -13,6 +13,10 @@ task represents an extension of the [real-time filtering
 task](https://github.com/lintool/twitter-tools/wiki/TREC-2015-Track-Guidelines)
 in the TREC 2015 Microblog Track.
 
+The track mailing list is
+[trec-rts@googlegroups.com](https://groups.google.com/forum/#!forum/trec-rts). Please
+join if you're interested in participating!
+
 ## What problems are we trying to solve?
 
 **Scenario A: Push notifications to mobile phones.** Let us assume a
