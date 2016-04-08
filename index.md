@@ -17,6 +17,11 @@ The track mailing list is
 [trec-rts@googlegroups.com](https://groups.google.com/forum/#!forum/trec-rts). Please
 join if you're interested in participating!
 
+We're using GitHub's [issue
+tracker](https://github.com/trecrts/trecrts.github.io/issues) to
+discuss details of the evaluation design. Head over there and comment on an
+open issue!
+
 ## What problems are we trying to solve?
 
 **Scenario A: Push notifications to mobile phones.** Let us assume a
