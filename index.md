@@ -22,6 +22,13 @@ tracker](https://github.com/trecrts/trecrts.github.io/issues) to
 discuss details of the evaluation design. Head over there and comment on an
 open issue!
 
+## Quick Links
+
++ [REST API for evaluation broker](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
++ [Guidelines from the TREC 2015 Microblog Track](https://github.com/lintool/twitter-tools/wiki/TREC-2015-Track-Guidelines)
++ [TREC 2015 test topics](TREC2015-MB-testtopics.txt)
+
+
 ## What problems are we trying to solve?
 
 **Scenario A: Push notifications to mobile phones.** Let us assume a
@@ -60,7 +67,7 @@ systems will be provided a list of "interest profiles" (similar to
 topics in *ad hoc* retrieval) representing users' information
 needs. We consider two evaluation scenarios:
 
-**Scenario A: Push notifications on a mobile phone.** Content that is
+**Scenario A: Push notifications to mobile phones.** Content that is
 identified as interesting by a system based on the user's interest
 profile *in real-time* will be pushed to the TREC RTS evaluation
 broker (via a REST API). Putatively, these notifications are delivered
