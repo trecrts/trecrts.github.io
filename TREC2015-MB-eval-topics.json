@@ -1,0 +1,257 @@
+[
+  { "id" : "MB226",
+    "title" : "Hershey, PA quilt show",
+    "description" : "Find information on the quilt show being held in Hershey, PA",
+    "narrative" : "The user is a beginning quilter who would like to attend her first quilt show. She has learned that a major quilt show will happen in Hershey, PA, and wants to see Tweets about the show, including such things as announcements of classes, teachers or vendors attending the show; prize-winning quilts; comments on logistics, travel information, and lodging; opinions about the quality of the show."
+  },
+  { "id" : "MB227",
+    "title" : "Pradaxa side effects",
+    "description" : "Find information on the negative side effects associated with the blood thinning drug Pradaxa.",
+    "narrative" : "The user has recently switched blood thinning medication from Coumadin to Pradaxa. He wants to find tweets that discuss research-based as well as personal accounts of side effects or other drug interactions of Pradaxa."
+  },
+  { "id" : "MB228",
+    "title" : "Coumadin dietary restrictions",
+    "description" : "Find information on the dietary restrictions associated with the blood thinning drug Coumadin.",
+    "narrative" : "The user has recently been prescribed the blood thinning drug Coumadin and needs to know what foods to eat and what foods to avoid while taking the drug. Medically recommended dietary restrictions as well as personal accounts of foods that have created issues are relevant."
+  },
+  { "id" : "MB236",
+    "title" : "California drought agricultural effects",
+    "description" : "Find information on the effect of the California drought on the state's agricultural sector.",
+    "narrative" : "The user is looking for information on the effect that the California drought is having on the state's extensive agricultural sector. He is looking for information across the spectrum of sources, from official statistics, through research reports, to anecdotal stories from individual farmers. Commentary regarding whether the agricultural sector should face mandatory water use restrictions is also relevant."
+  },
+  { "id" : "MB242",
+    "title" : "Saudi bombing Yemen",
+    "description" : "Find information related to any recent bombing raids by Saudi Arabia against the Houthi of Yemen.",
+    "narrative" : "The user is interested in the ongoing war in Yemen, and the bombing raids by the Saudi Air force against the Shea Houthi fighters in Yemen. He is interested in the number of raids, targets, and damage assessments."
+  },
+  { "id" : "MB243",
+    "title" : "FIFA corruption investigation",
+    "description" : "Find information related to the ongoing investigation of FIFA officials for corruption.",
+    "narrative" : "The user is a soccer fan who is interested in the current status of the ongoing investigation by various governments of corruption and bribery by officials of FIFA (Federation Internationale de Football Association). This includes tweets giving information on various investigations and possible rebidding of the 2018 and 2022 World Cup games."
+  },
+  { "id" : "MB246",
+    "title" : "Greek international debt crisis",
+    "description" : "Find information related to the crisis surrounding the Greek debt to international creditors, and the consequences of their possible withdrawal from the European Union.",
+    "narrative" : "Given the continuing crisis over the Greek debt to international creditors, such as the International Monetary Fund (IMF), European Central Bank (ECB), and the European Commission, the user is interested in information on how this debt is being handled, including the possible withdrawal of Greece from the euro zone, and the consequences of such a move."
+  },
+  { "id" : "MB248",
+    "title" : "Harlem 5K race",
+    "description" : "Find information on running in the Harlem 5K Race.",
+    "narrative" : "The user is considering running in the Harlem 5K race, which is an event planned during Harlem Week in New York. He's looking for logistical information about the race---the starting time, precise location, terrain of the race course, entrance requirements, the number of entrants---as well as historical information on previous winners of the race. He is also interested in travel information with respect to getting to the race: locations of recommended hotels or motels and local ethnic restaurants."
+  },
+  { "id" : "MB249",
+    "title" : "Johns Hopkins Lyme disease study",
+    "description" : "What is the status of the current study of Lyme disease at Johns Hopkins Hospital?",
+    "narrative" : "The user is a victim of Lyme disease and is considering participating in the on-going study of the disease at Johns Hopkins Hospital. She wants to know how long the study will run and the requirements for participating in it. She'd also like to follow announcements regarding possible outcomes of the study, such as new medications or treatments, and status reports on the current progress being made in the study."
+  },
+  { "id" : "MB253",
+    "title" : "health insurance for disabled children",
+    "description" : "Find first-hand accounts of care covered by health insurance for  children with disabilities, especially insurance provided through the Health Care Act.",
+    "narrative" : "The user is looking for first-hand accounts of care/services provided for children with disabilities that are covered by health insurance, and especially by insurance coverage provided through the Health Care Act. She has a particular interest in access to medical equipment and home care services. She is also interested in coverage and cost comparisons between public and private insurance."
+  },
+  { "id" : "MB254",
+    "title" : "cancer and depression",
+    "description" : "Find accounts of how cancer survivors have dealt with depression after successful treatment.",
+    "narrative" : "A 45-year-old man was diagnosed with prostate cancer and underwent chemotherapy for six months. He has become very depressed and hopeless even though the prognosis is good. He is looking for ways people with cancer have dealt with depression during and after treatment."
+  },
+  { "id" : "MB255",
+    "title" : "medical insurance on cruises",
+    "description" : "Find accounts of experiences using medical insurance while traveling on a cruise.",
+    "narrative" : "The user is planning a cruise to South America and is trying to decide whether to buy medical insurance specifically for the cruise. She has heard of many negative outcomes when passengers have sustained a physical injury while cruising, and is looking for people's experiences in accessing medical insurance, especially in an emergency."
+  },
+  { "id" : "MB260",
+    "title" : "Society for Women and the Civil War Conference",
+    "description" : "Find information on the annual conference of the Society for Women and the Civil War.",
+    "narrative" : "The user is considering attending the Society for Women and the Civil War conference in Sweet Briar, VA. Tweets that discuss anticipation, lodging, travel information, speakers topics and or research, Sweet Briar College, or Appomattox are relevant. Reviews or comments on past conferences are also relevant."
+  },
+  { "id" : "MB262",
+    "title" : "Stephen Colbert Late Show",
+    "description" : "Information and opinions on David Letterman's successor on the Late Show, Stephen Colbert.",
+    "narrative" : "The user is seeking information about the Late Show's new host, Stephen Colbert. Information about the transition including assessments, reviews, opinions and comparisons with the first Late Show host, David Letterman, is relevant."
+  },
+  { "id" : "MB265",
+    "title" : "cruise ship mishaps",
+    "description" : "Find tweets describing cruise ship mishaps and passengers' reactions to them.",
+    "narrative" : "The user is considering taking a cruise, but is alarmed by the possibility of being onboard during a mishap---outbreaks of illness, accidents, fires, breakdowns, collisions, etc. Relevant tweets include links to event descriptions and passengers' experiences."
+  },
+  { "id" : "MB267",
+    "title" : "fighting between Ukraine and pro-Russian rebels",
+    "description" : "Find information related to fighting between Ukrainian government forces and pro-Russian rebels in eastern Ukraine.",
+    "narrative" : "The user wants to monitor activities in the Ukraine where there continues to be clashes between Ukrainian government forces and pro-Russian rebels and Russian \"volunteers\". The user is interested in reports on any such battles as well as reports concerning diplomatic moves to end the fighting."
+  },
+  { "id" : "MB278",
+    "title" : "\"Mr. Holmes\" movie",
+    "description" : "Find critiques and opinions about the newly-released movie, \"Mr. Holmes\".",
+    "narrative" : "The user wants to read movie reviews about the movie \"Mr. Holmes\", She only wants reviews from people who have actually seen the movie."
+  },
+  { "id" : "MB284",
+    "title" : "coping with identity theft",
+    "description" : "Find information on consumer experiences and best practices in coping with identity theft.",
+    "narrative" : "The user has been a victim of a major data theft that has caused his personal information to be compromised. He has been enrolled in a credit monitoring service for 18 months. He wants to learn about others' experiences with credit monitoring programs and other ways to cope with compromised identity information."
+  },
+  { "id" : "MB287",
+    "title" : "\"The Vatican Tapes\" movie",
+    "description" : "Find information on the movie \"The Vatican Tapes\".",
+    "narrative" : "The user wants to find tweets that include reviews, comments or reactions to the movie \"The Vatican Tapes\". Information on the amount of violence is relevant, as are tweets that discuss anticipation, cast, filmmaker, etc."
+  },
+  { "id" : "MB298",
+    "title" : "Gaza rockets hit Israel",
+    "description" : "Find information on rockets fired from Gaza landing in Israel.",
+    "narrative" : "The user is interested on reports of rocket fire from Gaza against Israel, as well as retaliatory attacks by Israel against Gaza."
+  },
+  { "id" : "MB305",
+    "title" : "National Museum of American History",
+    "description" : "Find information about the renovated National Museum of American History in Washington, DC.",
+    "narrative" : "The user is planning to visit the recently renovated National Museum of American History in Washington DC. He would like information about the new collections that are being housed in the renovated museum. He is also interested in logistical information such as whether tickets are required, whether there is timed entry to the museum, and what days of the week may be the best for visiting the museum to avoid crowds."
+  },
+  { "id" : "MB324",
+    "title" : "Indian-Pacific train",
+    "description" : "Find opinions of the Indian-Pacific train that runs between Sydney and Perth.",
+    "narrative" : "The user is planning a tour of Australia and wants to see opinions of the rail journey on the Indian-Pacific Train that runs between Sydney and Perth. Relevant tweets include passenger descriptions, opinions, and assessments of the train journey, meals, and side trips."
+  },
+  { "id" : "MB326",
+    "title" : "wheelchair accessibility",
+    "description" : "Find reports of accessibility problems for wheelchair-bound people.",
+    "narrative" : "The user is disabled and uses a wheelchair. He is interested in news and personal accounts of accessibility problems that other wheelchair-bound people have experienced."
+  },
+  { "id" : "MB331",
+    "title" : "Special Olympics 2015",
+    "description" : "Find information about the Special Olympics 2015 games held in Los Angeles.",
+    "narrative" : "The user's daughter is participating in the 2015 Special Olympics. He would like to see tweets about logistics information (lodging, availability and cost of tickets, transportation), as well as contest outcomes and personal accounts from other attendees."
+  },
+  { "id" : "MB339",
+    "title" : "Chincoteague Pony Swim",
+    "description" : "Find tweets about the Annual Pony Swim in Chincoteague, MD.",
+    "narrative" : "The user is attending the 2015 Pony Swim and auction in Chincoteague, MD. Any information regarding attendance, logistics, entertainment, accommodations, and food is welcome."
+  },
+  { "id" : "MB344",
+    "title" : "Iran nuclear agreement",
+    "description" : "Find tweets on developments in the negotiations to reach an agreement on limiting Iran's capacity to potentially produce nuclear weapons in exchange for relief from economic sanctions.",
+    "narrative" : "The user is seeking information about the agreement between Iran and the P5+1 (the five UN Security Council members plus Germany) on limiting Iran's capacity to potentially produce nuclear weapons in exchange for relief from economic sanctions. Relevant tweets include individual reactions to the latest developments in the negotiations as well as commentary on the agreement."
+  },
+  { "id" : "MB348",
+    "title" : "drones vs. commercial airliners",
+    "description" : "Find information about drones flying in regions of commercial airliners.",
+    "narrative" : "Commercial airline pilots have reported an increase in the number of drones near their aircraft despite existing restrictions against drones flying where commercial airliners are likely to be found. The user is interested in reports of and information on instances of drones in commercial airliner space, as well as steps being proposed to further regulate it."
+  },
+  { "id" : "MB353",
+    "title" : "summer Seasonal Affective Disorder (SAD)",
+    "description" : "Find information on the summer version of Seasonal Affective Disorder (SAD).",
+    "narrative" : "The user has recently been diagnosed with the summer version of Seasonal Affective Disorder (SAD) and wants to follow the personal experiences of others with this version of the condition. Tweets that discuss treatment, advice, symptoms, coping tips, etc. of the summer version (aka summer blues) are relevant. Tweets discussing the winter version are not relevant."
+  },
+  { "id" : "MB354",
+    "title" : "\"Go Set a Watchman\"",
+    "description" : "Find information on the publication of the book \"Go Set a Watchman\" by Harper Lee",
+    "narrative" : "The user is a Harper Lee fan awaiting the release of her second book, \"Go Set a Watchman\". She wants to find tweets that include comments on portions of the book and what it is about or are in anticipation of its publishing. Tweets that refer to her earlier book \"To Kill a Mockingbird\" are only relevant if they discuss that book's relation to the new book. Tweets that discuss the authors' current health or situation are not relevant, nor are tweets on book sales or that merely comment that someone is reading the book."
+  },
+  { "id" : "MB357",
+    "title" : "prevalence of Ritalin use with no ADHD diagnosis",
+    "description" : "Find information about the prevalence of Ritalin use by college students who have not been diagnosed with ADHD.",
+    "narrative" : "The user is a father of a college student who has read reports of increasing use of Ritalin by college students who have not been diagnosed with ADHD as an artificial means of staying alert and increasing concentration. He wants to find information about the prevalence of Ritalin use on campus and see personal accounts of Ritalin use by students or their parents."
+  },
+  { "id" : "MB359",
+    "title" : "\"Grey\" book",
+    "description" : "Find tweets about the book \"Grey\" by E.L. James, the fourth book in the Fifty Shades series.",
+    "narrative" : "The user has read the previous books in the \"Fifty Shades of Grey\" series by E.L. James, and is looking for tweets from fellow readers about the release of the fourth book in the series, \"Grey\"."
+  },
+  { "id" : "MB362",
+    "title" : "Outback Steakhouse",
+    "description" : "Find information on and opinions of the Outback Steakhouse restaurant chain.",
+    "narrative" : "The user is an analyst for the hospitality sector and is interested in the Outback Steakhouse restaurant chain. He is interested in information on and the opinions of this chain, including tweets about specials being run by individual restaurants."
+  },
+  { "id" : "MB366",
+    "title" : "climbing Mount Everest",
+    "description" : "Find information and first hand accounts about climbing Mount Everest.",
+    "narrative" : "The user is seeking information on climbing Mount Everest in Nepal. Tweets describing climbers' experiences, impressions and analysis of their ascent and descent of Mt. Everest are relevant, as are tweets with pointing to guides and other expedition services."
+  },
+  { "id" : "MB371",
+    "title" : "self-driving cars",
+    "description" : "Find information on self-driving cars.",
+    "narrative" : "The user is a commuter and wants to follow the development of self-driving cars. Tweets that discuss any aspect of self-driving cars are relevant, including accidents, testing, research, public opinion, legal issues, technology, safety, manufacturers, etc."
+  },
+  { "id" : "MB377",
+    "title" : "animal attacks in safari parks",
+    "description" : "Find tweets relating to animals attacks on people at safari parks.",
+    "narrative" : "The user wants to find out popular opinion about attacks by wild animals on people or vehicles as they proceed through safari parks. Any comments relating to safety, warnings, ways to protect vehicles and their passengers, etc. are desirable. She also wants comments on whether these parks should be open to the public or even exist at all."
+  },
+  { "id" : "MB379",
+    "title" : "morel mushrooms",
+    "description" : "Find information about morel mushrooms.",
+    "narrative" : "The user is an aspiring chef and would like to learn more about morel mushrooms. She wants to know where these delicacies can be found, either in stores or in the wild, and would also like recipes or suggestions on how to prepare them."
+  },
+  { "id" : "MB383",
+    "title" : "online dating for older women",
+    "description" : "What online dating services are available for older women?",
+    "narrative" : "The user is seeking recommendations about reputable and trustworthy online dating services for educated, older (55+) women . Comments about what to expect from the services are also welcome."
+  },
+  { "id" : "MB384",
+    "title" : "arson fires in inner cities",
+    "description" : "Find reports of arson fires in inner cities.",
+    "narrative" : "Abandoned houses and failing stores in inner cities have become prime targets of arson by vandals or store owners seeking to collect insurance payouts. The user works for a national community housing program that wishes to document the extent of the problem to use in dialogue with legislative leaders at local, state and federal levels. He wants to track tweets that report on arson fires in inner cities as well as tweets that comment on the impact of those fires."
+  },
+  { "id" : "MB389",
+    "title" : "Clinton Foundation",
+    "description" : "Find tweets about the activities of the Clinton Foundation.",
+    "narrative" : "The user is interested in tweets about the Clinton Foundation's initiatives and activities."
+  },
+  { "id" : "MB391",
+    "title" : "polar icecap melting",
+    "description" : "Find information and opinions on reports that the icecaps are melting at both the north and south poles.",
+    "narrative" : "There have been reports that global warming is causing increased melting of the icecaps at the north and south poles. The user is interested in tweets discussing this issue."
+  },
+  { "id" : "MB392",
+    "title" : "U.S. forest fires",
+    "description" : "Find reports of active forest fires in the U.S.",
+    "narrative" : "The user is a member of the U.S. Fire Administration responsible for tracking active forest fires throughout the country. He wishes to find tweets that report on locations and extents of active forest fire in the U.S. Discussions of forest fires generally are not relevant."
+  },
+  { "id" : "MB400",
+    "title" : "probiotics",
+    "description" : "Find information about the health benefits of probiotics.",
+    "narrative" : "The user is seeking information about the health benefits of probiotics. Relevant tweets include links to studies of probiotics, as well as personal experiences (positive and negative) using them."
+  },
+  { "id" : "MB401",
+    "title" : "\"Knock Knock Live\"",
+    "description" : "What prizes were given and which celebrities appeared on Fox's \"Knock Knock Live\" show?",
+    "narrative" : "The user wants to follow the buzz around the the new television show on Fox, \"Knock Knock Live\". She is particularly interested in the prizes awarded and the celebrities who presented the prizes."
+  },
+  { "id" : "MB405",
+    "title" : "Rotterdam Unlimited",
+    "description" : "What are people experiencing at Rotterdam Unlimited?",
+    "narrative" : "The user is attending Rotterdam Unlimited and wants to see what others' experiences with and opinions on its events."
+  },
+  { "id" : "MB409",
+    "title" : "airport TSA screenings",
+    "description" : "Find information on screenings by the Transportation Security Administration (TSA) at airports.",
+    "narrative" : "The user recently had an unpleasant experience during a Transportation Security Administration (TSA) airport screening and wants to follow tweets on experiences by others. Tweets that discuss personal screening experiences (positive or negative), methods, procedures, advise, confiscation of belongings, etc. are relevant."
+  },
+  { "id" : "MB416",
+    "title" : "Hepworth Exhibit at the Tate Britain",
+    "description" : "Return tweets about the newly-opened exhibit of Barbara Hepworth sculptures at the Tate Britain Gallery in London.",
+    "narrative" : "The user wants to visit London and despite all the other attractions wants to spend some time in a leading art gallery. One possibility is the Tate Britain in London, which is having an exhibit of sculptures by Barbara Hepworth. The user wants comments and critiques by Tate visitors. She would also like to have an idea of how much time to devote to this gallery, how to get there, what refreshments might be in the area, etc."
+  },
+  { "id" : "MB419",
+    "title" : "King George Weekend Ascot",
+    "description" : "Find tweets about the King George Weekend at Ascot, England.",
+    "narrative" : "The user is a horse race aficionado and, although house-bound, she wants all the buzz about the King George Weekend at Ascot, England. She prefers comments from people who are actually going to the event, who are currently at the event, or who have just attended the event this year. What horses were entered? Who won? Who-all attended? Were famous people there? Any royals? How were they dressed? Were there any scandals?"
+  },
+  { "id" : "MB432",
+    "title" : "Mount Rushmore",
+    "description" : "Find tweets about people's reactions to and experiences when visiting Mount Rushmore.",
+    "narrative" : "The user is considering a trip to South Dakota to see Mount Rushmore. She would like to see what reaction other tourists have had to the site as well as any traveling tips and advise to make the trip more enjoyable."
+  },
+  { "id" : "MB434",
+    "title" : "2015 Summer PanAm Games",
+    "description" : "Find reports from the 2015 Summer PanAm Games.",
+    "narrative" : "The user wants to follow the 2015 Summer PanAm games, and would like to see tweets that give events' locations and outcomes, as well as tweets from people attending the games about their experiences."
+  },
+  { "id" : "MB439",
+    "title" : "Bolton Wanderers",
+    "description" : "Find tweets about the Bolton Wanderers Football Club.",
+    "narrative" : "The user is going to the UK this year and wonders if she should try to see her favourite football team, the Bolton Wanderers. She would like to read some fan reviews and get an informal sense of how the club has been doing lately. Names of team members and staff are also of interest."
+  },
+  { "id" : "MB448",
+    "title" : "Bouchercon World Mystery Convention",
+    "description" : "Find information on the Bouchercon World Mystery Convention.",
+    "narrative" : "The user plans to attend the next Bouchercon World Mystery Convention. Tweets that discuss past Bouchercons, anticipation, Anthony Award nominations, author attendees, honorees, travel or lodging logistics, and advice or tips are relevant."
+  },
+]
