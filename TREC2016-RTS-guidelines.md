@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## TREC 2016 Real-Time Summarization (RTS) Track Guidelines
+# TREC 2016 Evaluation Guidelines (DRAFT)
 
-### Overview
+## Overview
 
 The TREC 2016 Real-Time Summarization evaluation will take place
 from August 2, 2016 00:00:00 UTC to August 11, 2016 23:59:59
@@ -52,11 +52,47 @@ power outages, etc.). A starting point for boilerplate code for
 accessing the Twitter sample stream can be found
 [here](https://github.com/lintool/twitter-tools/wiki/Sampling-the-public-Twitter-stream).
 
-### Run Types
+## Run Types
 
-More details later.
+Each team will be allowed to submit up to three runs for scenario A
+and three runs for scenario B. For scenario A, this means that each
+team cannot have more than three active client ids with which the REST
+API is invoked (during the evaluation period).
 
-### Interest Profiles
+Runs for either scenario A or scenario B should be categorized into
+three different types based on the amount of human involvement:
+
++ **Automatic Runs**: In this condition, system development (including
+all training, system tuning, etc.) must conclude prior to downloading
+the interest profiles from NIST (which were made available before the
+evaluation period).  The system must operate without human input
+before and during the evaluation period. Note that it is acceptable
+for a system to perform processing on the profiles (for example, query
+expansion) before the evaluation period, but such processing cannot
+involve human input.
+
++ **Manual Preparation**: In this condition, the system must operate
+without human input during the evaluation period, but human
+involvement is acceptable before the evaluation period (i.e., after
+downloading the interest profile). Examples of manual preparation
+include human examination of the interest profiles to add query
+expansion terms or manual relevance assessment on a related collection
+to train a classifier. However, once the evaluation period begins, no
+further human involvement is permissible.
+
++ **Manual Intervention**: In this condition, there are no limitations
+on human involvement before or during the evaluation
+period. Crowd-sourcing judgments, human-in-the-loop search, etc. are
+all acceptable.
+
+For scenario A, we will ask you for the run type of each run (client
+id).  For scenario B, when you are uploading a run, you will be asked
+to designate its type. All types of systems are welcomed; in
+particular, manual preparation and manual intervention runs will help
+us understand human performance in this task and enrich the judgment
+pool.
+
+## Interest Profiles
 
 An interest profile is a JSON-formatted structure that contains the
 same information as a "traditional" *ad hoc* topic:
@@ -99,11 +135,22 @@ we intend to actually evaluate. The interest profiles that will
 actually be evaluated depend on a number of factors, including
 assessor interest, available of resources, etc.
 
-### Scenario A Results Submission via the REST API
+## Scenario A Results Submission via the REST API
 
-Stub, to be filled out later.
+A system for scenario A must deliver results in real time to the RTS
+evaluation broker. This is accomplished via a [REST
+API](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server).
+That is, whenever a tweet is identified as relevant to a particular
+interest profile, the system must invoke the following call on the evaluation broker:
 
-### Scenario B Results Submission via Batch Upload to NIST
+```
+POST /tweet/:topid/:tweetid/:clientid
+```
+
+The broker will record the API invocation time as the time the
+notification was pushed.
+
+## Scenario B Results Submission via Batch Upload to NIST
 
 Scenario B runs should be formatted as a plain text file, where each
 line has the following fields:
@@ -123,4 +170,9 @@ existing scoring scripts to compute NDCG, MAP, etc. on a per day
 basis. Please make sure that rank and score are consistent, i.e., rank
 1 has the highest score, rank 2 has the second highest score,
 etc. Otherwise, scoring ties will be broken arbitrarily.
+
+## Evaluation
+
+More details later.
+
 
