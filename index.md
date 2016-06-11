@@ -13,21 +13,21 @@ task represents an extension of the [real-time filtering
 task](https://github.com/lintool/twitter-tools/wiki/TREC-2015-Track-Guidelines)
 in the TREC 2015 Microblog Track.
 
-The track mailing list is
-[trec-rts@googlegroups.com](https://groups.google.com/forum/#!forum/trec-rts). Please
-join if you're interested in participating!
-
-We're using GitHub's [issue
-tracker](https://github.com/trecrts/trecrts.github.io/issues) to
-discuss details of the evaluation design. Head over there and comment on an
-open issue!
+The track organizers are:
+Fernando Diaz (Microsoft Research),
+Jimmy Lin (University of Waterloo),
+Richard McCreadie (University of Glasgow),
+Adam Roegiest (University of Waterloo), and
+Luchen Tan (University of Waterloo).
 
 ## Quick Links
 
-+ [Official TREC 2016 RTS Guidelines](TREC2016-RTS-guidelines.html)
-+ [REST API for evaluation broker](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
-+ [Guidelines from the TREC 2015 Microblog Track](https://github.com/lintool/twitter-tools/wiki/TREC-2015-Track-Guidelines)
-+ [TREC 2015 test topics](TREC2015-MB-testtopics.txt)
++ The track mailing list [trec-rts@googlegroups.com](https://groups.google.com/forum/#!forum/trec-rts) for participants
++ [Issue tracker](https://github.com/trecrts/trecrts.github.io/issues) for discussions on evaluation design
++ [TREC 2016 RTS Track Guidelines](TREC2016-RTS-guidelines.html)
++ [REST API for Evaluation Broker](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
++ [TREC 2015 Microblog Track Guidelines](https://github.com/lintool/twitter-tools/wiki/TREC-2015-Track-Guidelines)
++ [TREC 2015 Test Topics](TREC2015-MB-testtopics.txt) (subset that were assessed)
 
 ## What problems are we trying to solve?
 
