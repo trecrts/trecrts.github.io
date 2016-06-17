@@ -45,17 +45,19 @@ possible), and novel (users should not be pushed multiple
 notifications that say the same thing).
 
 **Scenario B (email digest).** In this scenario, a system will
-identify a batch of up to 100 ranked tweets per day, per interest
+identify a batch of up to 100 ranked tweets per day per interest
 profile. All tweets from 00:00:00 to 23:59:59 are valid candidates for
 a particular day. It is expected that systems will compute the results
 in a relatively short amount of time after the day ends (e.g., at most
-a few hours), but this constraint will not be enforced. The final
-submission (ranked lists of tweets for all days in the evaluation
+a few hours), but this constraint will not be enforced.
+However, participants are not allowed to use future evidence
+in generating the ranked lists (e.g., term statistics from the following day).
+The final submission (ranked lists of tweets for all days in the evaluation
 period) will be uploaded to NIST after the evaluation period ends.
 
 At a high level, these results should be relevant and novel;
-timeliness is not particularly important, provided that the tweets
-were all posted on the previous day.
+timeliness is not important as long as the tweets were all posted on
+the previous day.
 
 **IMPORTANT NOTE:** During the evaluation period, track participants
 *must* maintain a running system that continuously monitors the tweet
@@ -74,23 +76,21 @@ team cannot have more than three active client ids with which the REST
 API is invoked (during the evaluation period).
 
 Runs for either scenario A or scenario B are categorized into three
-different types based on the amount of human involvement:
+different types based on the degree of human involvement:
 
-+ **Automatic Runs**: In this condition, system development (including
-all training, system tuning, etc.) must conclude prior to downloading
-the interest profiles from NIST (which were made available before the
-evaluation period). The system must operate without human input
-before and during the evaluation period. Note that it is acceptable
-for a system to perform processing on the profiles (for example, query
-expansion) before the evaluation period, but such processing cannot
-involve human input. Systems are allowed to use training data from
-the TREC 2015 interest profiles as long as the training procedure does
-not involve human intervention.
++ **Automatic Runs**: In this condition, the system must operate
+without human intervention before and during the evaluation period. It
+is acceptable for a system to perform processing on the interest
+profiles (for example, query expansion) before the evaluation period,
+but such processing cannot involve human input (e.g., to judge the
+quality of the feedback terms). Similarly, systems are allowed to use
+training data from the TREC 2015 interest profiles as long as the
+training procedure does not involve human input.
 
 + **Manual Preparation**: In this condition, the system must operate
 without human input during the evaluation period, but human
 involvement is acceptable before the evaluation period (i.e., after
-downloading the interest profile). Examples of manual preparation
+downloading the interest profiles). Examples of manual preparation
 include human examination of the interest profiles to add query
 expansion terms or manual relevance assessment on a related collection
 to train a classifier. However, once the evaluation period begins, no
@@ -151,9 +151,9 @@ In case there are any inconsistencies, the RTS evaluation broker
 contains the source of truth for interest profiles.
 
 Note that the RTS evaluation broker will return more interest profiles
-than we intend to actually evaluate. The interest profiles that will
+than we intend to evaluate. The interest profiles that will
 actually be evaluated depend on a number of factors, including
-assessor interest, available of resources, etc.
+assessor interest, availability of resources, etc.
 
 ## Scenario A: Results Submission via the REST API
 
@@ -161,7 +161,7 @@ A system for scenario A must deliver results in real time to the RTS
 evaluation broker. This is accomplished via a [REST
 API](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server).
 That is, whenever a tweet is identified as relevant to a particular
-interest profile, the system must invoke the following call on the evaluation broker:
+interest profile, the system must invoke the following call on the RTS evaluation broker:
 
 ```
 POST /tweet/:topid/:tweetid/:clientid
@@ -178,15 +178,17 @@ RTS evaluation broker.
 
 For scenario B, systems should record the tweets that are submitted
 for each interest profile for each day in the evaluation period on
-their local machines, for batch upload to NIST after the evaluation
-period ends.
+their local machines. These runs will be uploaded in batch to NIST
+after the evaluation period ends.
 
-A run in scenario B will identify a batch of up to 100 ranked tweets
+A run for scenario B will identify a batch of up to 100 ranked tweets
 per day per interest profile. All tweets from 00:00:00 to 23:59:59 are
 valid candidates for a particular day. It is expected that systems
 will compute the results in a relatively short amount of time after
 the day ends (e.g., at most a few hours), but this constraint will not
 be enforced.
+However, participants are not allowed to use future evidence
+in generating the ranked lists (e.g., term statistics from the following day).
 
 The runs should be formatted as a plain text file, where each line has
 the following fields:
@@ -201,7 +203,7 @@ generated. "Q0" is a verbatim string that is part of legacy TREC
 format (i.e., keep it as is). The `rank` field is the rank of the
 result, starting with one; `score` is it's score.
 
-This format allows us to easily manipulate the runs and pass onto
+This format allows us to easily manipulate the runs and pass to
 existing scoring scripts to compute NDCG, MAP, etc. on a per day
 basis. Please make sure that rank and score are consistent, i.e., rank
 1 has the highest score, rank 2 has the second highest score,
@@ -211,7 +213,7 @@ We will provide details for how to upload the runs closer to the
 evaluation period.
 
 **Important Note:** A run can choose *not* to return any tweets for an
-interest profile on a particular day, if it does not believe that
+interest profile on a particular day, if the system does not believe that
 there are any relevant tweets for that interest profile on that
 day. See more details regarding the evaluation metrics below.
 
@@ -220,8 +222,7 @@ day. See more details regarding the evaluation metrics below.
 Scenario A systems will be evaluated in two different ways: The first
 is live user-in-the-loop assessments, described in this section. The
 second is traditional post hoc evaluation, described in the next
-section. The first approach is brand new and TREC 2016 represents the
-first time such a methodology has ever been deployed. However, it
+section. The first approach is brand new for TREC 2016 and
 promises a number of significant advantages over traditional post hoc
 evaluations because it is able to capture live user
 assessments. Evaluating systems using two independent approaches
@@ -233,8 +234,8 @@ traditional post hoc evaluation approach.
 
 In live user-in-the-loop assessments, tweets submitted by
 participating systems to the RTS evaluation broker will be immediately
-routed the mobile phone of an assessor, where it is rendered as a push
-notification containing both the text of the tweet and the
+routed to the mobile phone of an assessor, where it is rendered as a push
+notification containing the text of the tweet and the
 corresponding interest profile. The assessor may choose to judge the
 tweet immediately, or if it arrives at an inopportune time, to ignore
 it. Either way, the tweet is added to a judging queue in a custom app
@@ -286,19 +287,20 @@ The evaluation methodology is based on pooling. A common pool will be
 constructed based on scenario A and scenario B submissions. The pool
 depth will be determined after the evaluation period has ended by NIST
 based on the number of submissions and available resources. The
-assessment workflow is as follows:\ first, tweets returned by the
+assessment workflow is as follows: first, tweets returned by the
 systems will be assessed for relevance. Tweets will be judged as
 not-relevant, relevant, or highly relevant.
 
 Relevant tweets will then be semantically clustered into groups
 containing tweets that share substantively similar information. This
 evaluation methodology is based on the TREC 2015 Microblog evaluation,
-see [overview paper](http://trec.nist.gov/pubs/trec24/papers/Overview-MB.pdf), 
+see [overview paper](http://trec.nist.gov/pubs/trec24/papers/Overview-MB.pdf),
 which is in turn based on the Tweet Timeline
 Generation (TTG) task, see [Wang et al. (SIGIR 2015)](https://dl.acm.org/citation.cfm?id=2767699).
 
-The output of relevance assessment and clustering serve as input to
-separate metrics for scenario A and scenario B, detailed below.
+It is anticipated that NIST will perform both the relevance assessment
+and the semantic clustering. These outputs serve as inputs to separate
+metrics for scenario A and scenario B, detailed below.
 
 ### Scenario A
 
@@ -310,8 +312,8 @@ metrics this year and TREC 2015 are:
 2. Treatment of the latency penalty: [GitHub issue](https://github.com/trecrts/trecrts.github.io/issues/8)
 
 **NOTE:** the above two issues remain open for discussion. We welcome
-input from potential participants. To comment, please post directly to
-the issues above.
+input from participants. To comment, please post directly to the
+issues above.
 
 In the following, we define metrics used in the evaluation of scenario
 A runs. All metrics are computed for each day for each interest
@@ -364,7 +366,7 @@ particular day, and remaining silent (i.e., does not push any
 tweets). The EG-0 and nCG-0 variants of the metrics do not reward
 recognizing silent days: that is, it never hurts to push tweets.
 
-**Pain Minus Gain (GMP)** is defined as follows:
+**Gain Minus Pain (GMP)** is defined as follows:
 
 <img style="padding-left: 30px" src="formula-GMP.png" width="150px">
 
