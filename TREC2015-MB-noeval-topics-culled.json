@@ -1,0 +1,537 @@
+[
+  { "topid" : "MB229",
+    "title" : "legalizing medical marijuana",
+    "description" : "Find information on U.S. states considering or having legalized medical marijuana.",
+    "narrative" : "The user is a journalist working on a story about the use of medical marijuana in the U.S. As part of the research for the story, she wants to find information on which states have legalized medical marijuana or are considering doing so. Legislative bills, votes, and proposals for legalizing it are all relevant, as are legal or official public safety issues concerning legalized medical marijuana. However, general public opinions on why it should be legal or not are not relevant."
+  },
+  { "topid" : "MB230",
+    "title" : "bus service to NYC",
+    "description" : "Find information on bus service to NYC.",
+    "narrative" : "The user needs to travel to New York City (NYC) and is considering using the bus to get there. He is looking for other passengers' opinions of the various bus lines regarding aspects such as the quality of service, economic value, driver safety, cleanliness, reliability, and safety of pickup/drop off locations."
+  },
+  { "topid" : "MB235",
+    "title" : "California residential water restrictions",
+    "description" : "Find descriptions of the effects of residential water use restrictions due to the drought in California.",
+    "narrative" : "The user is looking for information on the effect of residential water use restrictions in California caused by the on-going drought. While official reports on the efficacy of the restrictions are relevant, the user is also looking for first-hand reports of how residents are complying and coping with the restrictions."
+  },
+  { "topid" : "MB237",
+    "title" : "electronic cigarette flavors",
+    "description" : "Find information on peoples' likes and dislikes of current flavors of electronic cigarettes.",
+    "narrative" : "The user has just quit smoking and wants to find out what's hot and what's not in the E-Cig (electronic cigarette) world. What are some of the current flavor favorites?"
+  },
+  { "topid" : "MB239",
+    "title" : "passenger train safety",
+    "description" : "Find out how rail passengers feel about train safety in the wake of recent rail accidents.",
+    "narrative" : "The user is in charge of capacity planning for a rail line, and seeks opinions and comments about traveling by train, in particular about rail safety. Given several recent rail accidents, he is trying to gauge whether passengers are likely to be seeking alternate transportation or will be continuing to travel by rail."
+  },
+  { "topid" : "MB247",
+    "title" : "Harlem Week in New York",
+    "description" : "Find information on activities during Harlem Week in New York.",
+    "narrative" : "The user wants to attend Harlem Week in New York. She'd like tweets that contain recommendations about local historic sites, best ethnic restaurants, best local hotels or motels, location of museums, and information about featured shows at the Apollo Theater."
+  },
+  { "topid" : "MB250",
+    "title" : "outdoor Shakespeare in NYC",
+    "description" : "Find information about outdoor performances of Shakespeare in NYC parks.",
+    "narrative" : "The user is interested in attending performances of Shakespeare plays staged outdoors in New York City (NYC) parks. He wants to monitor such information as what plays are being performed, actors in the performances, locations and times of the plays, and reviews of the plays that have already been performed. He also is looking for travel information such as recommendations for hotels and motels, and inexpensive restaurants in the area."
+  },
+  { "topid" : "MB251",
+    "title" : "NFL training camps",
+    "description" : "Find information on the locations of and activities of players during NFL training camps.",
+    "narrative" : "The user is a fan of National Football League (NFL) football and wants to follow training camp activities of the teams in the league. He is looking for tweets about the performance of the players while they are in training. He also wants to know the locations of the different camps and suggestions of places to stay at those locations so he can visit teams during training. Tweets from other fans who are also traveling to training camps are also relevant."
+  },
+  { "topid" : "MB252",
+    "title" : "Lamictal and academics",
+    "description" : "Find comments about Lamictal's effects on the academic learning process when used by teens.",
+    "narrative" : "The teenage son of the user has been prescribed with Lamictal to treat bipolar disorder. The son is a junior in high school and is seeking to apply for college. The father wants to know reactions of teenagers who have used this medication, and is particularly interested in the overall impact on academic achievement."
+  },
+  { "topid" : "MB256",
+    "title" : "Catholicism and social media",
+    "description" : "Find information on the effect of the Pope using social media has on the beliefs and behavior of young Catholics.",
+    "narrative" : "Pope Francis is trying to infuse Catholic beliefs in younger generations by using social media, including Twitter and Facebook. The user is looking for evidence that this is an effective method to communicate a set of specific beliefs as well as whether such communication influences young people's behavior and perspectives about Catholicism."
+  },
+  { "topid" : "MB258",
+    "title" : "Restaurant Week NYC",
+    "description" : "Find information about Restaurant Week in NYC.",
+    "narrative" : "The user will be visiting New York City (NYC) during Restaurant Week and wants to have some memorable meals. Tweets that express anticipation, recommendations about specific restaurants, reservation information, recommended food choices, quality of restaurants, logistics etc. are all relevant."
+  },
+  { "topid" : "MB259",
+    "title" : "MAOI food interactions",
+    "description" : "Find information on unexpected food interactions when taking an MAOI.",
+    "narrative" : "The user has recently started taking an MAOI and had an unexpected food interaction. Personal accounts of food interactions not previously identified or listed in avoidances or warnings are relevant. Severity of reaction, medical intervention and recovery issues are relevant."
+  },
+  { "topid" : "MB263",
+    "title" : "Crohn's disease treatment",
+    "description" : "Find information on treatment options for Crohn's disease.",
+    "narrative" : "The user has recently been diagnosed with Crohn's disease, and he is looking for information about treatment options. He wants to find tweets that point to published medical literature regarding treatment options as well as Tweets relaying personal experience with treatment."
+  },
+  { "topid" : "MB264",
+    "title" : "vaccine avoidance",
+    "description" : "Find tweets that explain the positions of or otherwise support those who advocate avoiding the use of vaccines.",
+    "narrative" : "The user is a parent of young children who wants to understand the controversy surrounding childhood vaccinations. She is seeking information and opinions of individuals and organizations that advocate avoiding the use of vaccines on children."
+  },
+  { "topid" : "MB266",
+    "title" : "passenger ferry mishaps",
+    "description" : "Find tweets describing passenger ferry mishaps and passengers' reactions to them.",
+    "narrative" : "The user routinely travels by ferry and wants to follow stories regarding mishaps suffered by or on passenger ferries. Mishaps range from capsizing and sinking to delays and breakdowns. Relevant tweets include links to event descriptions and passengers' experiences."
+  },
+  { "topid" : "MB268",
+    "title" : "Syrian civil war",
+    "description" : "Find information related to the civil war in Syria in which the fighting involves Syrian government forces.",
+    "narrative" : "The user is interested in reports on the fighting in Syria involving government forces, including Hezbollah forces, in the Syrian civil war. Tweets reporting government bombings, possible use of chemical weapons, and gains and losses are relevant. Reports on battles between ISIS and other nongovernment forces are not relevant."
+  },
+  { "topid" : "MB269",
+    "title" : "European refugee quotas",
+    "description" : "Find information on the effects of the European Union quota system for countries to accept refugees for resettlement.",
+    "narrative" : "The user is interested in monitoring the consequences of the quota system for European countries to accept refugees for resettlement that the European Union has introduced. The user is interested in information on how the quota system is working, how it might impact England's decision to stay in the European Union, and how it is impacting national elections of European countries. Reports on refugee movement into Europe other than with respect to the quota system, such as activities taken by Europe to attempt to help or block additional refugees, are not relevant."
+  },
+  { "topid" : "MB271",
+    "title" : "Kakuro",
+    "description" : "Find information on Kakuro (also known as Cross-Sums) puzzle apps, tournaments, or solving techniques.",
+    "narrative" : "The user likes to solve Kakuro (or Cross-Sums) puzzles and wants to find tweets about the puzzles. The user is interested in any tweets on this puzzle: available of apps, tournaments, or discussions regarding the puzzle."
+  },
+  { "topid" : "MB272",
+    "title" : "fishing contests in the Atlantic Ocean",
+    "description" : "Find information on fishing contests in the Atlantic Ocean in July 2015.",
+    "narrative" : "The user is a semi-professional fisherman. He is looking for tweets about current and recent fishing contests in the Atlantic, including who the contestants are and the results of the contest. He is also looking for tweets about the size and species of the fish caught by the winners."
+  },
+  { "topid" : "MB276",
+    "title" : "gay marriage laws in Europe",
+    "description" : "Find information about the possibility of the passage of gay marriage laws in Europe.",
+    "narrative" : "The user is an activist in human rights and is interested in following the legal climate for gay marriage in Europe. Any tweets related to proposed or enacted laws legalizing gay marriage at the national level in an European country is relevant."
+  },
+  { "topid" : "MB277",
+    "title" : "calcium supplements",
+    "description" : "What kinds of calcium supplements are available and what are the pros and cons of taking them?",
+    "narrative" : "The user was directed to begin taking calcium supplements for prevention of osteoporosis and wants to understand her options. What kinds of supplements are available, what dosage is good, what side effects are there, and what are the pros and cons of pill versus liquid form?"
+  },
+  { "topid" : "MB281",
+    "title" : "tick bite treatment",
+    "description" : "Find tweets that have any suggested treatment for a tick bite.",
+    "narrative" : "The user was bitten by a tick and wants to know the best remedy, home or commercial, for treating the bite. She thinks it was a deer tick but it could be an immature dog tick. She knows there is lyme disease in the area and hopes this isn't that!"
+  },
+  { "topid" : "MB282",
+    "title" : "euthanasia debate",
+    "description" : "Find opinions on both sides of the euthanasia debate---whether people with severe and incurable diseases have the right to die.",
+    "narrative" : "The user is a student writing her dissertation on the euthanasia debate: whether people with severe and incurable diseases have a right to make decisions regarding their own life and death as well as the right to be assisted to die with dignity. She is interested in learning people's perspectives and opinions about the patient's right to die vs the doctor's obligation to keep them alive, and whether the perspective changes with the patient's age or condition."
+  },
+  { "topid" : "MB283",
+    "title" : "curry as a condiment",
+    "description" : "Find ways people use curry as a condiment in different recipes.",
+    "narrative" : "The user is planning to open a small, casual restaurant and is interested in learning the best ways to use condiments and combine different spices. He is specifically interested in ways to use curry to create new recipes."
+  },
+  { "topid" : "MB285",
+    "title" : "relocating from NYC to LA",
+    "description" : "Find data that will help a graphic artist decide where to settle in LA as she relocated from NYC to LA.",
+    "narrative" : "The user is a graphic artist and long-time resident of New York City (NYC). She has decided to leave NYC and relocate in a more friendly and sunny area in the USA. She is looking for recommendations about neighborhoods in Los Angeles (LA) where creative artists live and work together. She wants to find tweets about housing, employment, networking, and the culture of different neighborhoods in LA"
+  },
+  { "topid" : "MB286",
+    "title" : "job training for high school graduates",
+    "description" : "Find data about job training and apprenticeship programs for high school graduates.",
+    "narrative" : "The user is a high school guidance counselor who needs to keep abreast of job training and apprenticeship programs for high school graduates anywhere in the U.S."
+  },
+  { "topid" : "MB296",
+    "title" : "free-range kids",
+    "description" : "Find opinions on either side of the free-range kids controversy.",
+    "narrative" : "The user is a sociologist who wants to study the U.S. phenomenon of free-range kids---children whose parents encourage them to go outside and play without hovering over them, and to walk through their neighborhood to a park (or home from school) by themselves. She is looking for tweets expressing opinions of parents of free-range kids as well as their supporters and detractors who sometimes call the authorities out of concern for the children's safety."
+  },
+  { "topid" : "MB299",
+    "title" : "subway commuting problems",
+    "description" : "Find information on problems with a subway system in the U.S. impacting commuting.",
+    "narrative" : "The user is a city government worker responsible for traffic planning. She is interested in seeing personal accounts of how subway system problems in U.S. cities have impacted commuters."
+  },
+  { "topid" : "MB302",
+    "title" : "Washington, DC area gas price",
+    "description" : "Find information on the gas prices in the Washington, DC metro area.",
+    "narrative" : "The user lives in a suburb of Washington, DC and wants to track information on the price of automobile gasoline in this area. Reports on the best place to purchase gas is desired, though reports on the general trend of gas prices in the area are also relevant."
+  },
+  { "topid" : "MB303",
+    "title" : "fracking in the Dakotas",
+    "description" : "Find information and views on the use of fracking techniques in the states of North and South Dakota.",
+    "narrative" : "While some states are moving to ban fracking, it has caused a boom in the oil industry in North and South Dakota. The user is interested in information regarding the fracking techniques used in the Dakotas, and also people's opinions of the use of this technique in the states of North and South Dakota."
+  },
+  { "topid" : "MB306",
+    "title" : "U.S. writers conferences",
+    "description" : "Find information on writers conferences in the U.S.",
+    "narrative" : "The user is an aspiring writer looking for information on writers conferences held in the U.S. He is looking for logistical information such as locations and travel information to and from the conference, as well as opinions of the quality of a conference and its participants."
+  },
+  { "topid" : "MB308",
+    "title" : "Joey Alexander, jazz pianist",
+    "description" : "Find information about jazz pianist and child prodigy Joey Alexander.",
+    "narrative" : "The user is a jazz aficionado who wants to follow the career of jazz pianist and child prodigy Joey Alexander. Any information about upcoming performances and his recordings is relevant, as is commentary about his unusual talent."
+  },
+  { "topid" : "MB312",
+    "title" : "lawn bowling",
+    "description" : "Find information on the game of lawn bowling.",
+    "narrative" : "The user would like to join, or start, a lawn bowling league and wants to monitor the level of interest in the game. He is interested in any tweets about the game."
+  },
+  { "topid" : "MB314",
+    "title" : "honey prices",
+    "description" : "Find information on honey prices and cheaper alternatives to honey for baking in light of rising prices.",
+    "narrative" : "The bee population of the U.S. has significantly declined in the past few years due to disease. The user is a baker who is experiencing significant increases in the price of honey, which negatively impacts production and sales. The user is seeking information about places to buy cheaper honey or alternatives to honey for different type of pastries, and storage suggestions to preserve honey. Networking ideas to buy honey are also relevant."
+  },
+  { "topid" : "MB315",
+    "title" : "transgender health services",
+    "description" : "Find information that would contribute to the construction of a health services directory for transgender individuals.",
+    "narrative" : "The user is an employee of a U.S. national non-profit organization dedicated to serving the transgender community who has been tasked with developing a service directory of medical and mental health resources. She is looking for information about location, types of service, expenses, and financial assistance availability as well as any opinions regarding such services."
+  },
+  { "topid" : "MB316",
+    "title" : "low carbohydrate diet",
+    "description" : "Find information on low carbohydrate diets.",
+    "narrative" : "The user wants to try a low carbohydrate diet. Tweets that discuss the South Beach diet, low carbohydrate diets, low GI or glycemic index diets are relevant. Relevant tweets include ones that discuss pros and cons, recommended foods or products, weight loss results, recipes, etc."
+  },
+  { "topid" : "MB317",
+    "title" : "Paleo diet",
+    "description" : "Find information on the Paleo diet.",
+    "narrative" : "The user wants to try the Paleo diet, and wants to see tweets that discuss pros and cons, recommended foods or products, weight loss results, recipes, etc."
+  },
+  { "topid" : "MB319",
+    "title" : "European river cruises",
+    "description" : "Find information on multi-day European river cruises.",
+    "narrative" : "The user wants to take a European river cruise. Tweets that discuss the pros and cons of specific cruise companies or rivers, past experiences, what to expect, anticipation, best time to travel, travel tips, itineraries, travel logistics to meet cruise, etc. are all relevant provided the cruise is in Europe and lasts for multiple days."
+  },
+  { "topid" : "MB320",
+    "title" : "Alaskan cruises",
+    "description" : "Find information on multi-day Alaskan cruises.",
+    "narrative" : "The user wants to take an Alaskan cruise. Tweets that discuss the pros and cons of specific cruise companies, past experiences, what to expect, anticipation, best time to travel, travel tips, itineraries, travel logistics to meet cruise, etc. are all relevant provided the cruise is in Alaska and lasts for multiple days."
+  },
+  { "topid" : "MB321",
+    "title" : "celebrity DUI",
+    "description" : "Find information on celebrities or famous personalities that have received DUI violations.",
+    "narrative" : "The user follows celebrity legal issues, especially drinking and driving violations. Tweets that discuss DUI violations received by celebrities or other famous personalities are relevant."
+  },
+  { "topid" : "MB327",
+    "title" : "problems between Egypt and Libya",
+    "description" : "Find information on the problems between Egypt and Libya.",
+    "narrative" : "The user is planning to visit the pyramids in Egypt, and is concerned that the unrest in Libya is causing increasing problems between Libya and Egypt. She wants to follow news and views on the interaction between the two countries. unrest in Libya"
+  },
+  { "topid" : "MB328",
+    "title" : "ISIS in Afghanistan",
+    "description" : "Find information on the ISIS presence in Afghanistan.",
+    "narrative" : "The user has noted that ISIS (Islamic State of Iraq and the Levant, ISIL, or DAISH) has been increasing their presence and activity in Afghanistan. He is interested in information on clashes between Afghani government or Taliban forces and ISIS forces, as well as ISIS activity in recruiting in Afghanistan."
+  },
+  { "topid" : "MB330",
+    "title" : "kayaking",
+    "description" : "Find opinions of interesting places to go kayaking or of kayaking outings.",
+    "narrative" : "The user has recently started kayaking and is looking for fellow enthusiasts and suggestions for places to go. She would like to see tweets about places other kayakers have enjoyed and announcements of kayaking outings."
+  },
+  { "topid" : "MB332",
+    "title" : "emerging music styles",
+    "description" : "Find tweets about musicians who are impressing audiences with a fresh, emerging music style.",
+    "narrative" : "The user is a music industry agent who is seeking new talent. He is looking for tweets from fans of musicians who are impressing audiences with a fresh, emerging music style."
+  },
+  { "topid" : "MB333",
+    "title" : "assisted living facilities in NYC and D.C.",
+    "description" : "Find tweets giving information on and/or opinions of assisted living facilities in either New York City (NYC) or Washington, D.C.",
+    "narrative" : "The user's elderly father needs to move from his current home into an assisted living facility. She is looking for general information about making such a transition as well as opinions on and experience with specific facilities in New York City (NYC) or Washington, D.C."
+  },
+  { "topid" : "MB334",
+    "title" : "mindfulness in the corporation",
+    "description" : "Find tweets about corporate employees who use mindfulness techniques in their professional lives.",
+    "narrative" : "The user is a human resource director for a Fortune 500 company who wants to collect data on the use of mindfulness meditation to train corporate employees to multitask and manage time pressure more effectively. She is interested in tweets from people who are using mindfulness techniques in their professional life."
+  },
+  { "topid" : "MB335",
+    "title" : "pop-up stores",
+    "description" : "Who is using pop-up stores and where are the stores located?",
+    "narrative" : "The user is a retail market analyst who wants to track the appearance of \"pop-up stores\", temporary retail spaces that brands may use to launch new products. He is seeking tweets that mention the locations of such stores and which brands are using them, and tweets that express opinions about particular pop-up stores."
+  },
+  { "topid" : "MB336",
+    "title" : "graduate programs in robotics",
+    "description" : "What are peoples' opinions of different graduate programs in robotics?",
+    "narrative" : "The user is about to finish her undergraduate degree and will continue her education at the graduate level. She is interested in seeing opinions about the best schools to go to to study robotics."
+  },
+  { "topid" : "MB338",
+    "title" : "gluten substitutes",
+    "description" : "Find information on any substitutes for gluten in baking and cooking.",
+    "narrative" : "The user wants to use gluten substitutes in baking and cooking during visits from her sister-in-law, who has celiac disease. She would like recommended brand names and also recipes and menus for gluten-free meals."
+  },
+  { "topid" : "MB340",
+    "title" : "perennial plants",
+    "description" : "What perennial plants are recommended for residential gardens?",
+    "narrative" : "The user wants to skip the annoying impatiens and salvias this year and instead plant perennial flowers and herbs around her house. She wants any suggestions of plants as well as information on planting methods, soil requirements, and seasonal recommendations."
+  },
+  { "topid" : "MB341",
+    "title" : "Seattle Seafair Fleet Week",
+    "description" : "Find tweets about the Seafair Fleet Week in Seattle, Washington.",
+    "narrative" : "The user wants to know all about the Seafair Fleet Week in Seattle. What kinds of ships will be there? Is it military, civilian, or both? Is it something people look forward to? What kinds of people will attend it?"
+  },
+  { "topid" : "MB342",
+    "title" : "beta-blockers",
+    "description" : "Find information on the adverse side effects associated with using beta-blockers.",
+    "narrative" : "The user's physician is recommending he take a beta-blocker. He wants to find tweets that discuss the personal experiences of beta-blocker users, regarding pros and cons of the various ones available, adverse side effects, other drug interactions, etc."
+  },
+  { "topid" : "MB345",
+    "title" : "triathlon participants",
+    "description" : "Find tweets from triathlon participants.",
+    "narrative" : "The user is training for a triathlon and wants to see tweets from other triathletes for inspiration. She is seeking tweets from triathlon participants who are training for a triathlon, currently taking part in a triathlon, and recovering after finishing a triathlon."
+  },
+  { "topid" : "MB346",
+    "title" : "venomous snake encounters",
+    "description" : "Find tweets about encounters with venomous snakes.",
+    "narrative" : "The user is a herpetologist who frequently gives nature talks to the public. She is looking for tweets about encounters with venomous snakes to use as anecdotes in her talks."
+  },
+  { "topid" : "MB349",
+    "title" : "pointing lasers at aircraft",
+    "description" : "Find tweets about aircraft that have had lasers pointed at them.",
+    "narrative" : "The user is a writer for a magazine for the airline industry who wants to do a feature article on the occurrence of laser pointers being shone at aircraft. He is interested in tweets that report on such instances as well as reports of prosecutions of such behavior."
+  },
+  { "topid" : "MB350",
+    "title" : "farmers markets",
+    "description" : "Find tweets about peoples' experiences at farmers markets.",
+    "narrative" : "The user is considering obtaining a booth at the local farmers market, and wants to gain a wider appreciation for what people like and dislike about farmers markets. She is interested in tweets related to people's experiences at farmers markets. Tweets that simply advertise a market or particular vendor at a market are not relevant."
+  },
+  { "topid" : "MB351",
+    "title" : "Piedmont, Italy",
+    "description" : "Find information on visiting the Piedmont region of Italy.",
+    "narrative" : "The user's grandparents immigrated from the Piedmont region of Italy, and he is interested in possibly visiting this area. He is looking for information and suggestions on where to go and what to see in Piedmont, particularly the village of Valperga, Italy."
+  },
+  { "topid" : "MB352",
+    "title" : "opinions of Wegmans",
+    "description" : "What are peoples' opinions of the Wegmans supermarket chain?",
+    "narrative" : "The user is seeking opinions of Wegmans Food Markets, Inc., a U.S. regional supermarket chain. Tweets containing opinions of specific stores in the chain are relevant, but a Tweet must contain some opinion of the stores to be relevant."
+  },
+  { "topid" : "MB356",
+    "title" : "fitness in seniors",
+    "description" : "Find tweets from senior citizens about their fitness routines.",
+    "narrative" : "The user, a senior citizen, has read recent reports that link exercising regularly with a reduced possibility of developing Alzheimer's disease, which has motivated her to begin exercising regularly. She'd like to see tweets from fellow seniors about their fitness programs for suggestions and continued motivation."
+  },
+  { "topid" : "MB358",
+    "title" : "physical fitness sensors",
+    "description" : "Find tweets describing how people are using physical fitness sensors such as Fitbit or fitness phone apps.",
+    "narrative" : "The user is interested in knowing what sorts of uses people are making of physical fitness sensors such as Fitbit or fitness apps on cell phones. What types of activity are people tracking, and do they find that using a device motivates them to exercise more?"
+  },
+  { "topid" : "MB361",
+    "title" : "adult summer camps",
+    "description" : "Find information about adult summer camps.",
+    "narrative" : "The user is an adult who went to summer camp as a child and wants to relive that experience. He is looking for tweets about locations, accommodations, transportation and activities of various adult summer camp opportunities."
+  },
+  { "topid" : "MB363",
+    "title" : "school supplies sales",
+    "description" : "Find tweets about current sales on school supplies.",
+    "narrative" : "With school starting soon, the user is interested in where there are sales on back to school supplies."
+  },
+  { "topid" : "MB365",
+    "title" : "cellphone tracking",
+    "description" : "Find information and opinions on police and federal officers tracking cellphones.",
+    "narrative" : "There has been increased discussion surrounding the use of cellphone trackers such as Stingray by local and federal officials in law enforcement, particularly on the need for court approval. The user is interested in opinions on the use of tracking devices by law enforcement, as well as in information on arrests and convictions helped by the use of these devices or plans to require more court oversight on the use tracking."
+  },
+  { "topid" : "MB369",
+    "title" : "High Line Park",
+    "description" : "Find information on and opinions about High Line Park in Manhattan.",
+    "narrative" : "The user is seeking information about High Line Park in Manhattan: general information such as amenities and opening hours as well as visitor impressions/opinions of their experience with the park."
+  },
+  { "topid" : "MB370",
+    "title" : "Airbus 380 experiences",
+    "description" : "Find tweets about passengers' experiences aboard the Airbus 380.",
+    "narrative" : "The user is a travel tour operator who wants to see find passenger assessments and opinions of their experience on board an Airbus 380 airliner."
+  },
+  { "topid" : "MB372",
+    "title" : "low serotonin",
+    "description" : "Find personal accounts of the effects of low serotonin levels.",
+    "narrative" : "The user has recently been diagnosed with low serotonin levels. She would like to find tweets that discuss personal experiences with serotonin levels and their effect on mood, sleep, appetite, emotion and other symptoms."
+  },
+  { "topid" : "MB374",
+    "title" : "home brewing beer",
+    "description" : "Find information on home brewing of beer.",
+    "narrative" : "The user wants to attempt brewing beer at home. He wants to find tweets that discuss all aspects of home-brewing: recipes, brewing kits, pros and cons of various methods, how to's, quality of home brewed beer, taste, supplies, legal issues, etc."
+  },
+  { "topid" : "MB375",
+    "title" : "concussion injuries",
+    "description" : "Find information about the prevalence and treatment of concussion injuries.",
+    "narrative" : "The user is a mother concerned about the prevalence of concussions especially in sporting activities. She wants to see tweets that discuss concussion injuries: medical care, legal issues, symptoms, effects, prevention or safety measures, etc."
+  },
+  { "topid" : "MB376",
+    "title" : "military exercises southwest U.S.",
+    "description" : "Find tweets about the military exercises that are taking place in the southwest U.S. this summer.",
+    "narrative" : "The user wants to determine informal public reaction to the military exercises taking place in seven states in the U.S. southwest in July and August. Any comments regarding citizen concerns are welcome. Such topics as noise, impact on air and land traffic, citizen-troop interaction, etc, are welcome, as are any expression of fear of the implications of such a program."
+  },
+  { "topid" : "MB378",
+    "title" : "cocker spaniel adoption",
+    "description" : "Find tweets about cocker spaniel dogs available for adoption.",
+    "narrative" : "The user is hoping to adopt a (pure bred) cocker spaniel and wants to avoid pet shops, breeders, and local shelters. She is hoping to informally find a dog in need of rescue. Any tweets about cocker spaniels up for adoption or in need of rescue are desired."
+  },
+  { "topid" : "MB380",
+    "title" : "\"Home Free\" reality show competition",
+    "description" : "Find tweets about the new reality show, \"Home Free\", which consists of a home-remodeling competition.",
+    "narrative" : "The user wants to know who is watching the new reality show, \"Home Free\", which is a home-remodeling competition. She wants to know what viewers think of it and how popular it is. Any comments pro or con about the show are welcome."
+  },
+  { "topid" : "MB381",
+    "title" : "coin collecting",
+    "description" : "Find tweets about coin collecting.",
+    "narrative" : "The user is a beginning coin collector who is looking for advice and motivation from fellow collectors."
+  },
+  { "topid" : "MB382",
+    "title" : "trends in children's clothing",
+    "description" : "Find information on trends in children's clothing.",
+    "narrative" : "The user is a market researcher interested in following trends in children's clothing fashion. She is interested in opinions on seasonal items preferences, as well as in consumer's concerns such as reliability of merchants and quality of the items."
+  },
+  { "topid" : "MB385",
+    "title" : "D.C. Metro outages",
+    "description" : "Find reports of incidents that cause outages in the D.C. Metro subway system.",
+    "narrative" : "The user works for a passenger's rights group that is trying to assess the safety and efficiency of D.C. Metro subway systems' daily operations to share in real time with the commuting public and to use in dialogues with Metro system managers and elected officials. Find reports of delays, damages, suspensions, accidents or other types of incidents that cause outages within the system---incidents that alter or affect the subway system or its schedule."
+  },
+  { "topid" : "MB388",
+    "title" : "Saratoga Race Track",
+    "description" : "Find reports of people's experiences at Saratoga Race Track.",
+    "narrative" : "The user is planning a visit to Saratoga Springs, NY and is considering spending time at the Saratoga Race Track. He would like to see tweets about people's experiences while at the track."
+  },
+  { "topid" : "MB390",
+    "title" : "Apple Music",
+    "description" : "What are people's opinions of the Apple Music program?",
+    "narrative" : "The user owns several Apple products and is interested in the new Apple Music program. He is interested in feedback about the quality, utility, and cost of Apple Music, as well as information about the variety of music that can be downloaded to his Apple product."
+  },
+  { "topid" : "MB393",
+    "title" : "U.S. crop harvest yield",
+    "description" : "Find information on the anticipated yield of this year's harvest of crops in the U.S.",
+    "narrative" : "The user is a farmer who is interested in reports and opinions on the anticipated crop yields for this harvest season in the U.S. Reports on research or techniques to increase yield will be considered relevant, including the effect of GMO crops ono yields."
+  },
+  { "topid" : "MB394",
+    "title" : "biased news reporting",
+    "description" : "Find opinions about news outlets providing biased and one-sided news reporting.",
+    "narrative" : "The user is a news junkie who wants to find opinions regarding people's perceptions of biased or one-sided news reporting. He is primarily interested in instances of biased reporting, though tweets claiming that a particular outlet or show is biased will also be considered relevant."
+  },
+  { "topid" : "MB399",
+    "title" : "Lewy body dementia",
+    "description" : "Find information about Lewy body dementia.",
+    "narrative" : "The user is seeking information on Lewy body Dementia, including medical literature about the condition and experiences of victims and caregivers."
+  },
+  { "topid" : "MB407",
+    "title" : "sunburn art",
+    "description" : "Find examples of and opinions on sunburn art.",
+    "narrative" : "The user will soon be going on a beach vacation during which she is considering creating some sunburn art. She is looking for examples of what others have created for inspiration, as well as information about the safety of the practice."
+  },
+  { "topid" : "MB408",
+    "title" : "amphetamines and ADHD",
+    "description" : "Find tweets that discuss amphetamines and ADHD.",
+    "narrative" : "The user' daughter has been diagnosed with attention deficit hyperactivity disorder (ADHD) and wants to follow the personal experiences of others that have used amphetamines in the treatment of ADHD. Relevant tweets discuss types of amphetamines used, adverse side effects, drug interactions, physical and psychological reactions, addiction, etc."
+  },
+  { "topid" : "MB410",
+    "title" : "hidden icons in movies and television",
+    "description" : "Find information on hidden icons in television shows or movies.",
+    "narrative" : "The user likes to discover the hidden icons in television shows and movies. He wants to follow tweets that discuss the hidden icons, products, meanings, \"Easter eggs\", messages, characters, etc. that others have found in various movies or television shows or their advertisements."
+  },
+  { "topid" : "MB411",
+    "title" : "Disney World",
+    "description" : "Find peoples' experiences with vacationing at Disney World.",
+    "narrative" : "The user will be taking his family on a vacation to Disney World in Florida and wants to follow tweets that discuss personal experiences about visiting the park. Tweets that discuss lodging, restaurants, rides, family activities other than theme park, anticipation, travel information, expectations, costs, crowds, advice or tips, etc. are all relevant."
+  },
+  { "topid" : "MB414",
+    "title" : "Americans traveling to Cuba",
+    "description" : "Find tweets describing personal experiences of Americans traveling to Cuba.",
+    "narrative" : "The user will be visiting a family member residing in Cuba. She wants to find tweets that recount personal experiences of Americans traveling to Cuba, including anticipation, expectations, restrictions, sightseeing, safety, currency, travel logistics, and tips or advice."
+  },
+  { "topid" : "MB415",
+    "title" : "Ariana Grande",
+    "description" : "Find information on Ariana Grande.",
+    "narrative" : "The user is an Ariana Grande fan. She wants to find tweets that discuss Grande's concerts, tour schedule, awards, songs, and acting, as well as tweets on opinions, comments or essays, and reviews about her."
+  },
+  { "topid" : "MB417",
+    "title" : "cataract surgery",
+    "description" : "Find tweets describing patient experiences with cataract surgery.",
+    "narrative" : "The user is anticipating eye surgery for cataract removal and replacement. She wants anecdotal information on what to experience before, during, and after the surgery."
+  },
+  { "topid" : "MB418",
+    "title" : "ballroom dancing competitions",
+    "description" : "Retrieve information about upcoming ballroom dancing competitions.",
+    "narrative" : "The user wants to start entering ballroom dancing competitions and wants information on upcoming events, particularly in the U.S. but events in other English-speaking areas are also of interest."
+  },
+  { "topid" : "MB420",
+    "title" : "Sriracha sauce food uses",
+    "description" : "What food can Sriracha sauce be used on?",
+    "narrative" : "The user wants to know what kinds of food Sriracha sauce is good on. Other uses, e.g. as an antibiotic or ant poison, are not desired."
+  },
+  { "topid" : "MB421",
+    "title" : "casino gambling in Maryland",
+    "description" : "Find information on the Sociocultural and economic impact of casino gambling in Maryland.",
+    "narrative" : "Casinos have had a controversial and conflictual history in Maryland with some parts of the community strongly promoting them for the revenue and other parts opposing gambling based on moral grounds. The user is a researcher seeking information about Maryland casino's financial performance, number of jobs created directly and indirectly, community economic impact, and sociocultural changes."
+  },
+  { "topid" : "MB422",
+    "title" : "growing orchids",
+    "description" : "Find information about best practices in growing and caring for orchids.",
+    "narrative" : "The user has heard that orchids are difficult plants to cultivate, but she would like to grow them because of their beauty. She wants information about best practices in growing and caring for orchids, as well as sources for equipment and services."
+  },
+  { "topid" : "MB423",
+    "title" : "drones and domestic surveillance",
+    "description" : "Find opinions on using drones for domestic surveillance.",
+    "narrative" : "The user is a lawyer concerned about the increasing use of drones to perform domestic surveillance and its possible violation of citizens' rights. She is seeking opinions on the routine use of clones for domestic surveillance: does the public feel that the drones are performing a useful service or that they are further eroding citizens' privacy?"
+  },
+  { "topid" : "MB424",
+    "title" : "Comcast customer service",
+    "description" : "Find opinions of the customer service provided by Comcast.",
+    "narrative" : "Comcast has been historically rated as a poor customer service provider, but has made efforts to improve its service. The user is interested in learning people's opinions as to the current state of Comcast's customer service, and about specific concerns and experiences with Comcast."
+  },
+  { "topid" : "MB425",
+    "title" : "Sudoku tournaments",
+    "description" : "Find information about upcoming Sudoku tournaments.",
+    "narrative" : "The user likes to do Sudoku puzzles and wants to participate in upcoming Sudoku tournaments. The user is looking for tweets that announce a tournament and/or give logistical information, tweets about a tournament from its participants and Sudoku enthusiasts that includes travel to and from the tournament, and the quality of the tournament."
+  },
+  { "topid" : "MB426",
+    "title" : "Billy Joel concerts",
+    "description" : "Find information about Billy Joel's concerts.",
+    "narrative" : "The user is a Billy Joel fan and wants to track tweets about Joel's concerts. She is looking for tweets that review past concerts as well as give information for upcoming concerts such as dates and locations and other logistical information including lodging and availability and cost of tickets."
+  },
+  { "topid" : "MB429",
+    "title" : "Gates Foundation",
+    "description" : "What projects are being sponsored by the Bill and Melinda Gates Foundation, and what are people's views of the foundation?",
+    "narrative" : "The user is interested in tracking projects sponsored by the Bill and Melinda Gates Foundation and the views people have towards the foundation and its projects."
+  },
+  { "topid" : "MB430",
+    "title" : "Sarah Palin",
+    "description" : "Find tweets about Sarah Palin's latest political activity and people's reaction to it.",
+    "narrative" : "The user is wondering if Sarah Palin is continuing to be politically active, and what other's reactions are to the activity, if so."
+  },
+  { "topid" : "MB431",
+    "title" : "Royal Shakespeare Company",
+    "description" : "Find tweets about people's experiences at and opinions of productions by the Royal Shakespeare Company.",
+    "narrative" : "The user is planning a trip to Stratford-upon-Avon and wants to attend a production by the Royal Shakespeare Company. He is interested in tweets from other theater goers about their experiences and opinions of productions by the company."
+  },
+  { "topid" : "MB433",
+    "title" : "car recalls",
+    "description" : "Find people's reactions to car recalls.",
+    "narrative" : "The user is a market analyst for the automotive industry who is interested in tracking public sentiment in the wake of a manufacturer issuing a recall. He wants to find tweets that contain people's reaction to a car recall, including their opinions of the brand and their experiences in having the issue that prompted the recall addressed."
+  },
+  { "topid" : "MB436",
+    "title" : "restaurant workers' tips",
+    "description" : "Find tweets from restaurant workers about the tips they have received.",
+    "narrative" : "The user is a journalist working on a story about the distribution of tip revenues among restaurant owners and employees. She wants to find tweets from servers that comment on the tips they have received."
+  },
+  { "topid" : "MB437",
+    "title" : "gay adoption",
+    "description" : "Find opinions about gay parents adopting children.",
+    "narrative" : "The user is interested in views about gay adoption of babies or other young children."
+  },
+  { "topid" : "MB438",
+    "title" : "marlin fishing in Key West",
+    "description" : "Return tweets about marlin fishing in Key West, Florida.",
+    "narrative" : "The user would like to go marlin fishing in Key West, Florida. She is looking for tweets about other people's experiences finding and catching (or trying to catch) marlin."
+  },
+  { "topid" : "MB440",
+    "title" : "women's rights in Saudi Arabia",
+    "description" : "Return tweets about women's rights in Saudi Arabia.",
+    "narrative" : "The user is interested in tweets referring to the staus of women in Saudi Arabia and any progress made towards advancing their rights."
+  },
+  { "topid" : "MB441",
+    "title" : "speech recognition software",
+    "description" : "Find people's experiences using speech recognition software.",
+    "narrative" : "The user wants to have an idea of what speech recognition software is out there and what users think about the various brands or types of processes. Examples of humorous mis-recognitions are also relevant."
+  },
+  { "topid" : "MB443",
+    "title" : "bee keeping",
+    "description" : "Return tweets on all aspects of bee keeping.",
+    "narrative" : "The user is considering raising bees and would like to get a sense of who out there has hives, keeps bees, produces honey, or is involved with any other aspect of bee keeping. Opinions on flavors of honey are also welcome."
+  },
+  { "topid" : "MB446",
+    "title" : "lacrosse tournaments",
+    "description" : "Return announcements of and commentary regarding lacrosse tournaments.",
+    "narrative" : "The user's daughter likes lacrosse and wants to attend some upcoming lacrosse tournaments. She wants to see any tweets that relate to a tournament. Tweets about a tournament from its participants including tweets that express anticipation of the tournament or traveling to/from the tournament or tweets that comment on the quality of a tournament are relevant."
+  },
+  { "topid" : "MB449",
+    "title" : "Lego Robotics",
+    "description" : "Find information on Lego Robotics activities.",
+    "narrative" : "The user took part in Lego Robotics activities while in school 15 years ago and is wondering what is happening with with them now. Are there any upcoming competitions? Where are some of the teams coming from? What age groups are represented? Any comments on interest level are also welcome."
+  },
+  { "topid" : "MB450",
+    "title" : "traffic cameras",
+    "description" : "What is the public's sentiment on the use of traffic cameras?",
+    "narrative" : "The user wants to explore public reaction to the increased use of traffic cameras to help catch offending drivers. Alternate uses of the cameras, as in the pursuit of criminals' escape paths, are also welcome."
+  }
+]

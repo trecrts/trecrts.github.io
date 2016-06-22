@@ -27,7 +27,12 @@ Luchen Tan (University of Waterloo).
 + [TREC 2016 RTS Track Guidelines](TREC2016-RTS-guidelines.html)
 + [REST API for Evaluation Broker](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
 + [TREC 2015 Microblog Track Guidelines](https://github.com/lintool/twitter-tools/wiki/TREC-2015-Track-Guidelines)
-+ [TREC 2015 Test Topics](TREC2015-MB-testtopics.txt) (subset that were assessed)
+
+Interest profiles (i.e., topics) for 2016:
+
++ [Interest profiles that were assessed from TREC 2015](TREC2015-MB-eval-topics.json)
++ [Additional interest profiles culled from TREC 2015](TREC2015-MB-noeval-topics-culled.json)
++ New interest profiles developed for TREC 2016 (available in mid-July)
 
 ## What problems are we trying to solve?
 
