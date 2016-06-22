@@ -130,6 +130,15 @@ similar to what users would type into a search engine. The
 "description" and "narrative" are sentence- and paragraph-long
 elaborations of the information need, respectively.
 
+For 2016, the interest profiles for evaluation are drawn from three
+sources:
+
+1. [Interest profiles that were assessed from TREC 2015](TREC2015-MB-eval-topics.json) (51 of these) - so participants have training data.
+
+2. [Additional interest profiles culled from TREC 2015](TREC2015-MB-noeval-topics-culled.json) (107 of these) - we've gone through manually and retained profiles that are still applicable (e.g., throwing away profiles about events that have happened already) and profiles for which we hope to get a reasonable volume of relevant tweets. 
+
+3. New interest profiles developed for TREC 2016. (Available mid-July)
+
 The official list of interest profiles is provided using a [REST API
 call](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
 `GET /topics/:clientid` to the RTS evaluation broker. The API provides
