@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TREC 2016 Evaluation Guidelines (DRAFT)
+# TREC 2016 Evaluation Guidelines
 
 ## Overview
 
@@ -10,10 +10,11 @@ The TREC 2016 Real-Time Summarization evaluation will take place
 from August 2, 2016 00:00:00 UTC to August 11, 2016 23:59:59
 UTC. During this time, all participating systems will "listen" to the
 Twitter sample stream using the Twitter streaming API and perform the
-evaluation tasks *in real time*. The Twitter streaming API offers an
+evaluation tasks (described in this document) *in real time*. 
+The Twitter streaming API offers an
 approximately 1% sample of all tweets (sometimes called the
 "spritzer") and is freely available to all registered users. Note that
-the evaluation time period is in UTC. Track participants are
+the evaluation time period is in UTC; participants are
 responsible for translating UTC into their local time to align with
 the evaluation start and end times.
 
@@ -34,8 +35,8 @@ The scenario A evaluation setup looks like this:
 
 <center><img style="padding-bottom: 15px; padding-top: 5px" src="trecrts-setup.png" width="500px"></center>
 
-More details about this evaluation platform can be found in a
-forthcoming SIGIR 2016 demo by Roegiest et al., ["A Platform for
+More details about the evaluation platform can be found in a
+SIGIR 2016 demo by Roegiest et al., ["A Platform for
 Streaming Push Notifications to Mobile
 Assessors"](https://cs.uwaterloo.ca/~jimmylin/publications/Roegiest_etal_SIGIR2016.pdf).
 
@@ -109,7 +110,7 @@ For scenario A, we will ask each participant for the run type of each
 run (client id). For scenario B, when uploading a run, each
 participant will be asked to designate its type. All types of systems
 are welcomed; in particular, manual preparation and manual
-intervention runs will help us understand human performance in this
+intervention runs will help us understand human performance on this
 task and enrich the judgment pool.
 
 ## Interest Profiles
@@ -213,7 +214,7 @@ format (i.e., keep it as is). The `rank` field is the rank of the
 result, starting with one; `score` is it's score.
 
 This format allows us to easily manipulate the runs and pass to
-existing scoring scripts to compute NDCG, MAP, etc. on a per day
+existing scoring scripts to compute nDCG, MAP, etc. on a per day
 basis. Please make sure that rank and score are consistent, i.e., rank
 1 has the highest score, rank 2 has the second highest score,
 etc. Otherwise, scoring ties will be broken arbitrarily.
@@ -230,16 +231,16 @@ day. See more details regarding the evaluation metrics below.
 
 Scenario A systems will be evaluated in two different ways: The first
 is live user-in-the-loop assessments, described in this section. The
-second is traditional post hoc evaluation, described in the next
+second is traditional post hoc batch evaluation, described in the next
 section. The first approach is brand new for TREC 2016 and
 promises a number of significant advantages over traditional post hoc
-evaluations because it is able to capture live user
+batch evaluations because it is able to capture live user
 assessments. Evaluating systems using two independent approaches
 reduces the risk associated with any new experimental methodology and
 will support post hoc analyses for validation purposes.
 
 Note that scenario B systems will only be evaluated using the
-traditional post hoc evaluation approach.
+traditional post hoc batch evaluation approach.
 
 In live user-in-the-loop assessments, tweets submitted by
 participating systems to the RTS evaluation broker will be immediately
@@ -257,7 +258,7 @@ It is anticipated that the assessors will be students at the
 University of Waterloo.
 
 The evaluation framework is modeled after the interleaved approach
-proposed by Qian et al. in a forthcoming SIGIR 2016 paper,
+proposed by Qian et al. in a SIGIR 2016 paper,
 ["Interleaved Evaluation for Retrospective Summarization and
 Prospective Notification on Document
 Streams"](https://cs.uwaterloo.ca/~jimmylin/publications/Qian_etal_SIGIR2016.pdf).
@@ -270,7 +271,7 @@ information conveyed previously), or not relevant. Note that although
 the tweets are rendered as push notifications, there is no guarantee
 when the assessor is going to perform the assessment (if at all).
 
-Beyond this general description, it is not possible to provide any
+Beyond this general description, it is difficult to provide
 additional details, such as the exact "routing algorithm" assigning
 system runs to assessors, the number of tweets each assessor will
 receive daily, etc. These details will depend on how many assessors we
@@ -282,14 +283,14 @@ strive to keep participants updated on the participant's mailing
 list.
 
 More details about the live user-in-the-loop assessment platform
-deployed for this evaluation can be found in a forthcoming SIGIR 2016
+deployed for this evaluation can be found in a SIGIR 2016
 demo by Roegiest et al., ["A Platform for Streaming Push Notifications
 to Mobile Assessors"](https://cs.uwaterloo.ca/~jimmylin/publications/Roegiest_etal_SIGIR2016.pdf).
 
-## Evaluation: Post Hoc Evaluations
+## Evaluation: Post Hoc Batch Evaluations
 
 In contrast to live user-in-the-loop assessments, the post hoc
-evaluation methodology has been refined over the past few years and
+batch evaluation methodology has been refined over the past few years and
 has been experimentally validated.
 
 The evaluation methodology is based on pooling. A common pool will be
@@ -314,15 +315,11 @@ metrics for scenario A and scenario B, detailed below.
 ### Scenario A
 
 For previous participants, the two main differences between the
-metrics this year and TREC 2015 are:
+metrics this year and the metrics from TREC 2015 are:
 
-1. Treatment of "silent days": [GitHub issue](https://github.com/trecrts/trecrts.github.io/issues/7)
+1. Treatment of "silent days"
 
-2. Treatment of the latency penalty: [GitHub issue](https://github.com/trecrts/trecrts.github.io/issues/8)
-
-**NOTE:** the above two issues remain open for discussion. We welcome
-input from participants. To comment, please post directly to the
-issues above.
+2. Treatment of the latency penalty
 
 In the following, we define metrics used in the evaluation of scenario
 A runs. All metrics are computed for each day for each interest
@@ -366,7 +363,7 @@ the metrics, on a "silent day", the system receives a score of one
 (i.e., perfect score) if it does not push any tweets, or zero
 otherwise. In the EG-0 and nCG-0 variants of the metrics, for a silent
 day, all systems receive a gain of zero no matter what they do.
-For more details, see a [forthcoming SIGIR 2016 paper by Tan et al.](https://cs.uwaterloo.ca/~jimmylin/publications/Tan_etal_SIGIR2016a.pdf)
+For more details, see a [SIGIR 2016 paper by Tan et al.](https://cs.uwaterloo.ca/~jimmylin/publications/Tan_etal_SIGIR2016a.pdf)
 that explores these variant metrics.
 
 That is, under EG-1 and nCG-1, systems are rewarded for recognizing
