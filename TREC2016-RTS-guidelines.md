@@ -138,7 +138,7 @@ sources:
 
 2. [Additional interest profiles culled from TREC 2015](TREC2015-MB-noeval-topics-culled.json) (107 of these) - we've gone through manually and retained profiles that are still applicable (e.g., throwing away profiles about events that have happened already) and profiles for which we hope to get a reasonable volume of relevant tweets. 
 
-3. New interest profiles developed for TREC 2016. (Available mid-July)
+3. [New interest profiles developed for TREC 2016](TREC2016-RTS-topics.json) (45 of these)
 
 The official list of interest profiles is provided using a [REST API
 call](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)

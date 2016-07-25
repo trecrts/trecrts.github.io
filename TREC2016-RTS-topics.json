@@ -1,0 +1,227 @@
+[
+  { "topid" : "RTS1",
+    "title" : "transgender bathrooms",
+    "description" : "Find information on different sides of the debate on which bathroom can be used by a transgender individual",
+    "narrative" : "The user is interested in the politics of the transgender bathroom debate, including current and proposed bills, as well as backlash and economic implications (for example, boycotts)."
+  },
+  { "topid" : "RTS2",
+    "title" : "Zika in Ecuador",
+    "description" : "Find updates on the current Zika crisis in the country of Ecuador.",
+    "narrative" : "The user has family in Ecuador and wants to see how her family might be affected by the Zika crisis. She's interested in reports of new cases as well as measures being taken to control the outbreak."
+  },
+  { "topid" : "RTS3",
+    "title" : "\"No Man's Sky\"",
+    "description" : "Find reviews of the video game \"No Man's Sky\"",
+    "narrative" : "The user is debating whether to purchase the \"No Man's Sky\" video game and wants to know what people think of it."
+  },
+  { "topid" : "RTS4",
+    "title" : "Olympic women's table tennis medalists",
+    "description" : "Find discussion of the competition for medals in the 2016 Olympic Games in women's table tennis.", 
+    "narrative" : "The user is an avid fan of table tennis and wants to follow the medals won in women's table tennis in the 2016 Olympics. He wants to see both speculation of who might win medals leading up to the games, as well as announcements and discussion of who actually did win medals once the games have been played."
+  },
+  { "topid" : "RTS5",
+    "title" : "Olympic Soccer for Brazil",
+    "description" : "How do fans feel about the performance of the Brazilian Soccer team at the 2016 Olympics?",
+    "narrative" : "The user is a fan of Brazil and soccer and wants to know how other fans feel the Brazilian soccer team is doing in the 2016 Olympics."
+  },
+  { "topid" : "RTS6",
+    "title" : "Olympic medals for Thailand",
+    "description" : "Find information on medals won by Thailand at the 2016 Olympics.",
+    "narrative" : "The user is of Thai descent and wants to follow the medal count for Thailand at the 2016 Olympics. She wants to see comments about Thai competitors in medal contention as well as announcements of medals won."
+  },
+  { "topid" : "RTS7",
+    "title" : "Traveler's Championship",
+    "description" : "Find information on who is doing well and who is doing poorly at the PGA Tour Traveler's Championship.",
+    "narrative" : "The user is an avid golfer and wants to follow the buzz at the PGA Tour's Traveler's Championship. He would like to see discussion of noteworthy play (both good and bad) within the tournament"
+  },
+  { "topid" : "RTS8",
+    "title" : "Donald Trump's tax policy",
+    "description" : "Find information on U.S. presidential candidate Donald Trump's policies on how he plans to tax America.",
+    "narrative" : "The user is an American concerned about the upcoming presidential election and wants to understand Donald Trump's position on taxes."
+  },
+  { "topid" : "RTS9",
+    "title" : "Leos horoscope",
+    "description" : "Find the daily horoscope for Leos.",
+    "narrative" : "The user was born under the zodiac sign Leo and wants to know what her horoscope is for the day."
+  },
+  { "topid" : "RTS10",
+    "title" : "Hiroshima atomic bomb",
+    "description" : "What is the current sentiment about the United States using an atomic bomb on Hiroshima in World War II?",
+    "narrative" : "The user is writing a paper on the sociological effects of nuclear weapons. He is particularly interested in investigating whether opinions of using atomic bombs change over time, and thus wants to track discussions of how people today regard the bombing of Hiroshima by the United States during World War II."
+  },
+  { "topid" : "RTS11",
+    "title" : "Oakland Raiders training camp",
+    "description" : "Find information on player and coaching actions during the Oakland Raiders football team's training camp.",
+    "narrative" : "The user is an avid fan of the Oakland Raiders football team. He wants updates on how his team is performing during training camp as well as roster adjustments for the team."
+  },
+  { "topid" : "RTS12",
+    "title" : "Wye Oak Album \"Tween\"",
+    "description" : "Find reviews of the new Wye Oak album \"Tween\".",
+    "narrative" : "The user is a fan of the Wye Oak band that recently released a new album called \"Tween\". She wants to follow the discussion of the album by other fans."
+  },
+  { "topid" : "RTS13",
+    "title" : "Amazon same day shipping",
+    "description" : "How do people feel about Amazon's same day shipping policy?",
+    "narrative" : "Amazon offers same day shipping for some items to certain locations. The user wants to investigate whether Amazon should expand the program, so she is looking for comments about the policy, including whether people make use of same day shipping, whether they are annoyed by the restrictions of the program, and whether they think it is worth the cost."
+  },
+  { "topid" : "RTS14",
+    "title" : "Colonoscopy preparation",
+    "description" : "Find information on how people prepare for an upcoming colonoscopy.",
+    "narrative" : "The user is scheduled to have a colonoscopy. She knows there are several different regimens to prepare for the procedure and wants to know others' reactions to the preparation they used. She is also interested in what others ate and drank during their preparation."
+  },
+  { "topid" : "RTS15",
+    "title" : "Gary Johnson",
+    "description" : "Find information on the Libertarian candidate Gary Johnson and his platform in the upcoming U.S. presidential election.",
+    "narrative" : "The user is deciding who to vote for in the U.S. presidential election and wants to know more about the Libertarian candidate Gary Johnson. He is interested in both Johnson's positions on the issues as well as commentary about Johnson from others."
+  },
+  { "topid" : "RTS16",
+    "title" : "\"Big Brother\"",
+    "description" : "What is happening on the U.S. television show \"Big Brother\"?",
+    "narrative" : "The user follows the U.S. television show \"Big Brother\" and wants to stay up-to-date on what is going on inside the house."
+  },
+  { "topid" : "RTS17",
+    "title" : "Brexit Article 50",
+    "description" : "When is the UK going to trigger Article 50 of the Lisbon Treaty to formally begin the process of leaving the European Union?",
+    "narrative" : "The user is interested in news regarding the British government's triggering of Article 50 of the Lisbon Treaty, the piece of legislation allowing a country to exit the European Union. General discussion of Brexit, without specific reference to Article 50, is not relevant."
+  },
+  { "topid" : "RTS18",
+    "title" : "\"Suicide Squad\"",
+    "description" : "Find information on the movie \"Suicide Squad\" in regards to whether its rating of PG-13 from the MPAA is too high or too low.",
+    "narrative" : "The user has a younger child who would like to see the movie \"Suicide Squad\", which has been rated as PG-13 by the MPAA. The parent want opinions regarding whether the movie is recommended to be seen by a child."
+  },
+  { "topid" : "RTS19",
+    "title" : "Tesla",
+    "description" : "Find information on the reliability of cars made by Tesla Motor Corp.",
+    "narrative" : "The user is in the market for a new car and wants to purchase a car with a good reliability rating. She is looking for others' experiences with cars from Tesla Motor Corp., and in particular whether Tesla cars have a higher cost of ownership because of frequent breakdowns. She is specifically not interested in the Autopilot feature."
+  },
+  { "topid" : "RTS20",
+    "title" : "electric charging stations on the west coast",
+    "description" : "Find information about locations of electric charging stations for vehicles on the west coast of the U.S. and whether a station is operational.",
+    "narrative" : "The user is planning a long trip in his electric car along the west coast of the U.S. He wants to know locations of charging stations where he can plug in his car to recharge the battery. He is particularly interested in notifications that a station is no longer functional, or that a previously broken station has been repaired."
+  },
+  { "topid" : "RTS21",
+    "title" : "SpaceX Falcon 9",
+    "description" : "What are people's opinions of the reusable Falcon 9 rocket made by SpaceX?",
+    "narrative" : "The user is a journalist looking to gauge public opinion on reusable rocket launches. She is looking for opinions and anecdotes about the Falcon 9 rocket developed by SpaceX."
+  },
+  { "topid" : "RTS22",
+    "title" : "Earth-like exoplanets",
+    "description" : "Find information about the discovery of Earth-like exoplanets.",
+    "narrative" : "The user is an aspiring astronomer. He wants updates on discoveries of Earth-like exoplanets as well as discussion of what makes an exoplanet 'Earth-like'."
+  },
+  { "topid" : "RTS23",
+    "title" : "\"Star Wars Episode 8\"",
+    "description" : "The user wants to follow the buzz surrounding the upcoming release of the movie \"Star Wars Episode 8\".",
+    "narrative" : "The user is a Star Wars fan and wants to know how excited other people are about the new installment of the movie franchise, \"Star Wars Episode 8\"."
+  },
+  { "topid" : "RTS24",
+    "title" : "Brexit and gold prices",
+    "description" : "Find information on how Brexit is affecting gold prices.",
+    "narrative" : "The user is invested in gold and thinks that Brexit will affect gold prices. He wants opinions regarding the best time to sell his investment for maximum profit."
+  },
+  { "topid" : "RTS25",
+    "title" : "Russian Olympic team ban",
+    "description" : "Find sentiment on whether the entire Russian Olympic team should have been banned from the Rio Olympics.",
+    "narrative" : "The user is a sports writer and wants to follow people's opinions regarding the decision to not ban the entire Russian Olympic team from the Rio Olympics in light of the alleged state-sponsored doping program."
+  },
+  { "topid" : "RTS26",
+    "title" : "Verizon high data usage",
+    "description" : "What are people's reactions to the expected changes to Verizon Wireless's data plan that will eliminate the unlimited data usage category?",
+    "narrative" : "The user is a Verizon Wireless customer who currently is enrolled in an unlimited data usage plan but has seen announcements of Verizon's intention to eliminate such plans. She is looking for information about the types of caps that will be imposed in the new tiered plans. She is also interested in whether others are sufficiently angry about the change to force Verizon to repeal the changes."
+  },
+  { "topid" : "RTS27",
+    "title" : "Pokemon Go injuries",
+    "description" : "Find anecdotes of people getting injured while playing the game Pokemon Go.",
+    "narrative" : "The user is a concerned parent of ardent Pokemon Go players. He wants to find anecdotes/data about injuries that others have incurred while playing the game to assess the risks."
+  },
+  { "topid" : "RTS28",
+    "title" : "Nvidia's new Titan X",
+    "description" : "Do people think Nvidia's new Titan X GPU is worth its cost?", 
+    "narrative" : "The user is thinking about upgrading his computer and knows that Nvidia is intending to release a new GPU, Titan X, for $1200 on August 2. He wants to know if the new Titan X card is worth its cost."
+  },
+  { "topid" : "RTS29",
+    "title" : "tornadoes in Kansas",
+    "description" : "Find alerts about tornadoes in Kansas.",
+    "narrative" : "The user lives in Kansas and wants alerts about tornadoes and tornado warnings."
+  },
+  { "topid" : "RTS30",
+    "title" : "Black Lives Matter protest locations",
+    "description" : "Find information on when and where Black Lives Matter (BLM) protests are being held in the United States.",
+    "narrative" : "The user is creating a map of Black Lives Matter (BLM) protests. He wants tweets announcing the time and location of protest events throughout the United States, but is not interested in tweets discussing the larger issues of the BLM movement."
+  },
+  { "topid" : "RTS31",
+    "title" : "Galaxy Note 7",
+    "description" : "Find information on the processor speed of the new Galaxy Note 7 as well as people's impressions of how fast the phone seems.",
+    "narrative" : "The user runs data-intensive apps on his phone. He wants to know if choosing the new Galaxy Note 7 would be a good upgrade."
+  },
+  { "topid" : "RTS32",
+    "title" : "housing conditions at the Olympics",
+    "description" : "What are the athlete's opinions about their housing conditions in the Rio Olympic village?",
+    "narrative" : "The user is curious about the housing conditions experienced by the athletes during the Olympics."
+  },
+  { "topid" : "RTS33",
+    "title" : "International Beer Day in Germany",
+    "description" : "Find information on events in Germany related to International Beer Day.",
+    "narrative" : "The user will be in Germany on International Beer Day and wants to plan which events to attend in its honor. He is looking for announcements of the various events to be held as well as people's experiences with those events in previous years."
+  },
+  { "topid" : "RTS34",
+    "title" : "Beyonce in Barcelona",
+    "description" : "Find tweets from Beyonce fans regarding her performance on August 3rd in Barcelona, Spain.",
+    "narrative" : "The user is a huge Beyonce fan, but can't attend her concert in Barcelona, Spain on August 3. The user wants to attend the concert vicariously through the tweets of those who are attending the concert."
+  },
+  { "topid" : "RTS35",
+    "title" : "tax-free shopping in Texas",
+    "description" : "Find information from fellow shoppers about the best deals for tax-free back-to-school shopping in Texas.",
+    "narrative" : "The user lives in Texas and wants to take advantage of the tax-free back-to-school shopping program in Texas. She is looking for tweets from like-minded shoppers regarding the best deals on school supplies and clothing."
+  },
+  { "topid" : "RTS36",
+    "title" : "FDA and tobacco products",
+    "description" : "Find information on what the FDA is doing to tobacco products under its new rules that include E-cigarettes, vapes, and hookahs.",
+    "narrative" : "The user owns an E-cigarette shop and is concerned that new rule changes from the FDA for tobacco products could affect his business. He wants tweets that explain the rule changes as well as opinions from other business owners about the impact of the new rules."
+  },
+  { "topid" : "RTS37",
+    "title" : "Sea World",
+    "description" : "Find information on the condition of the animals kept at Sea World.",
+    "narrative" : "The user is an animal rights activist concerned about animals kept in captivity. She is looking for news about the safety and general living conditions of the animals at Sea World."
+  },
+  { "topid" : "RTS38",
+    "title" : "abuse of celebrities on Twitter",
+    "description" : "Find celebrities claiming to be abused by others on Twitter.",
+    "narrative" : "The user works for a gossip magazine and is compiling a list of celebrities who claimed to have been abused on Twitter for background on a story she is writing. She is looking for reports of specific instances from the celebrities themselves."
+  },
+  { "topid" : "RTS39",
+    "title" : "California wildfires",
+    "description" : "Find information on specific evacuations in California caused by wildfires.",
+    "narrative" : "The user owns a second home in California and needs to stay up-to-date on evacuation area boundaries with respect to wildfires there. She wants to see tweets announcing evacuation area changes."
+  },
+  { "topid" : "RTS40",
+    "title" : "Leicester City",
+    "description" : "Find information on Leicester City's Champions League and Premier League fixtures.",
+    "narrative" : "The user is a fan of upstart Leicester City FC and is excited for the new season. He wants information about the match-ups in the first several fixtures of the season---opinions as to how Leicester City compares to its opponents---for both the Champions and Premier Leagues."
+  },
+  { "topid" : "RTS41",
+    "title" : "Mike Pence scandals",
+    "description" : "Find information about scandals involving Mike Pence.",
+    "narrative" : "The user is interested in scandals, both past and present, that involve Republican vice-presidential candidate Mike Pence.",
+  },
+  { "topid" : "RTS42",
+    "title" : "Tim Kaine scandals",
+    "description" : "Find information about scandals involving Tim Kaine.",
+    "narrative" : "The user is interested in scandals, both past and present, that involve Democratic vice-presidential candidate Time Kaine.",
+  },
+  { "topid" : "RTS43",
+    "title" : "Donald Trump and Mike Pence policy differences",
+    "description" : "Find information about policy differences between the Republican presidential candidate Donald Trump and his running mate Mike Pence.",
+    "narrative" : "The user is interested in policy differences between Donald Trump and Mike Pence: attempts at reconciling their differences, reactions from the public, other politicians, donors, etc."
+  },
+  { "topid" : "RTS44",
+    "title" : "Hillary Clinton and Tim Kaine policy differences",
+    "description" : "Find information about policy differences between the Democratic presidential candidate Hillary Clinton and her running mate Tim Kaine.",
+    "narrative" : "The user is interested in policy differences between Hillary Clinton and Tim Kaine: attempts at reconciling their differences, reactions from the public, other politicians, donors, etc."
+  },
+  { "topid" : "RTS45",
+    "title" : "Democratic Party favoritism",
+    "description" : "Get opinions on whether the Democratic Party in the U.S. showed favoritism towards Hillary Clinton over Bernie Sanders.",
+    "narrative" : "The user voted for Bernie Sanders and wants to know if the party elites conspired to have him lose the nomination bid of the Democratic Party in favor of Hillary Clinton."
+  }
+]

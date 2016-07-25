@@ -32,7 +32,7 @@ Interest profiles (i.e., topics) for 2016:
 
 + [Interest profiles that were assessed from TREC 2015](TREC2015-MB-eval-topics.json)
 + [Additional interest profiles culled from TREC 2015](TREC2015-MB-noeval-topics-culled.json)
-+ New interest profiles developed for TREC 2016 (available in mid-July)
++ [New interest profiles developed for TREC 2016](TREC2016-RTS-topics.json)
 
 ## What problems are we trying to solve?
 
