@@ -2,48 +2,30 @@
 layout: default
 ---
 
-Real-Time Summarization (RTS) is a new track at the 2016 [Text
-Retrieval Conference (TREC)](http://trec.nist.gov) that represents a
-merger of the Microblog (MB) track, which ran from 2010 to 2015,
-and the Temporal Summarization (TS) track, which ran from 2013 to 2015.
-The creation of RTS is designed to leverage synergies
-between the two tracks in exploring prospective information needs over
-document streams containing novel and evolving information.  The 2016
-task represents an extension of the [real-time filtering
-task](https://github.com/lintool/twitter-tools/wiki/TREC-2015-Track-Guidelines)
-in the TREC 2015 Microblog Track.
-
-The track organizers are:
-Fernando Diaz (Microsoft Research),
-Jimmy Lin (University of Waterloo),
-Richard McCreadie (University of Glasgow),
-Adam Roegiest (University of Waterloo), and
-Luchen Tan (University of Waterloo).
+There is growing interest in systems that address prospective
+information needs against continuous document streams, exemplified by
+social media services such as Twitter. Real-Time Summarization (RTS)
+is a track at the 2017 [Text Retrieval Conference
+(TREC)](http://trec.nist.gov) that focuses on these types of
+information needs.
 
 ## Quick Links
 
 + The track mailing list [trec-rts@googlegroups.com](https://groups.google.com/forum/#!forum/trec-rts) for participants
 + [Issue tracker](https://github.com/trecrts/trecrts.github.io/issues) for discussions on evaluation design
-+ [TREC 2016 RTS Track Guidelines](TREC2016-RTS-guidelines.html)
 + [REST API for Evaluation Broker](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
-+ [TREC 2015 Microblog Track Guidelines](https://github.com/lintool/twitter-tools/wiki/TREC-2015-Track-Guidelines)
-
-Interest profiles (i.e., topics) for 2016:
-
-+ [Interest profiles that were assessed from TREC 2015](TREC2015-MB-eval-topics.json)
-+ [Additional interest profiles culled from TREC 2015](TREC2015-MB-noeval-topics-culled.json)
-+ [New interest profiles developed for TREC 2016](TREC2016-RTS-topics.json)
++ [TREC 2017 RTS Track Guidelines](TREC2017-RTS-guidelines.html)
 
 ## What problems are we trying to solve?
 
-There is emerging interest in systems that automatically monitor
-streams of social media posts such as Twitter to keep users up to date
-on topics they care about. We might think of these topics as "interest
-profiles", specifying the user's prospective information needs. For
-example, the user might be interested in poll results for the 2016
-U.S. presidential elections and wishes to be notified whenever new
-results are published. We can imagine two methods for disseminating
-updates:
+We consider users who have a number of "interest profiles"
+representing prospective information needs. The system's task is to
+automatically monitor the stream of documents to keep the user up to
+date on topics of interest. For example, a journalist might be
+interested in collisions involving autonomous vehicles and wishes to
+receive updates whenever such an event occurs.
+
+We can imagine two methods for disseminating updates:
 
 **Scenario A: Push notifications.** As soon as the system identifies a
 relevant post, it is immediately sent to the user's mobile phone via a
@@ -66,8 +48,8 @@ figure:
 
 <center><img style="padding-bottom: 15px; padding-top: 5px" src="trecrts-setup.png" width="500px"></center>
 
-The evaluation will occur from August 2, 2016 00:00:00 UTC to August
-11, 2016 23:59:59 UTC. During this time, all participating systems
+The evaluation will occur from July TBD 2017 00:00:00 UTC to July TBD, 2017 23:59:59 UTC.
+During this time, all participating systems
 will "listen" to the Twitter sample stream using the Twitter streaming
 API and perform the evaluation tasks *in real time*. Systems
 will be provided a list of "interest profiles" (similar to topics in
@@ -83,5 +65,21 @@ For **scenario B (email digest)**, at the end of the evaluation
 period, participants will upload a list of tweets to NIST servers for
 evaluation.
 
-For details, refer to the [official TREC 2016 RTS
-guidelines](TREC2016-RTS-guidelines.html).
+## History
+
+Real-Time Summarization (RTS) began at TREC 2016 and represents a
+merger of the Microblog (MB) track, which ran from 2010 to 2015, and
+the Temporal Summarization (TS) track, which ran from 2013 to 2015.
+The creation of RTS is designed to leverage synergies between the two
+tracks in exploring prospective information needs over document
+streams containing novel and evolving information. The 2016 task
+represents an extension of the [real-time filtering
+task](https://github.com/lintool/twitter-tools/wiki/TREC-2015-Track-Guidelines)
+in the TREC 2015 Microblog Track.
+
+Historic links for TREC 2016:
+
++ [TREC 2016 RTS Track Guidelines](TREC2016-RTS-guidelines.html)
++ [Interest profiles that were assessed from TREC 2015](TREC2015-MB-eval-topics.json)
++ [Additional interest profiles culled from TREC 2015](TREC2015-MB-noeval-topics-culled.json)
++ [New interest profiles developed for TREC 2016](TREC2016-RTS-topics.json)
