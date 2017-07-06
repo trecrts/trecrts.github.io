@@ -30,7 +30,7 @@ We consider two scenarios:
 identified as relevant by a system based on the user's interest
 profile *in real-time* will be pushed to the TREC RTS evaluation
 broker via a REST API (detailed below). These notifications will be
-immediately routed to the mobile phones of a group of human assessors.
+immediately routed to the mobile device of a group of human assessors.
 The scenario A evaluation setup looks like this:
 
 <center><img style="padding-bottom: 15px; padding-top: 5px" src="trecrts-setup.png" width="500px"></center>
@@ -164,6 +164,22 @@ Each run is only allowed to push up to ten tweets per day per interest
 profile. Additional tweets beyond the limit will be rejected by the
 RTS evaluation broker.
 
+A new addition this year is an API endpoint for systems to request the
+results of assessments by the mobile assessors, for a particular
+topic:
+
+```
+POST /assessments/:topid/:clientid
+```
+
+This enables the opportunity for active learning and other techniques
+that take advantage of user feedback.
+
+See the [REST API
+documentation](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
+for additional details.
+
+
 ## Scenario B: Results Submission via Batch Upload to NIST
 
 For scenario B, systems should record the tweets that are submitted
@@ -222,12 +238,11 @@ participating systems to the RTS evaluation broker will be immediately
 routed to the mobile device an assessor, where it is rendered as a push
 notification containing the text of the tweet and the
 corresponding interest profile. The assessor may choose to judge the
-tweet immediately, or if it arrives at an inopportune time, to ignore
-it. Either way, the tweet is added to a judging queue in a custom app
-on the assessor's mobile phone, which the assessor can access at any
-time to judge the queue of accumulated tweets. As the assessor judges
-tweets, the results are relayed back to the evaluation broker and
-recorded.
+tweet immediately, or if it arrives at an inopportune time, to ignore it.
+Either way, the tweet accumulates in an app on the assessor's mobile
+device, which the assessor can access at any time to judge the backlog
+of tweets. As the assessor judges tweets, the results are relayed back
+to the evaluation broker and recorded.
 
 It is anticipated that the assessors will be students at the
 University of Waterloo.
@@ -238,7 +253,7 @@ proposed by Qian et al. in a SIGIR 2016 paper,
 Prospective Notification on Document
 Streams"](https://cs.uwaterloo.ca/~jimmylin/publications/Qian_etal_SIGIR2016.pdf).
 See follow-up work in a SIGIR 2017 paper by Roegiest et al., ["Online In-Situ Interleaved Evaluation
-ofReal-Time Push Notification Systems"](https://cs.uwaterloo.ca/~jimmylin/publications/Roegiest_etal_SIGIR2017.pdf).
+of Real-Time Push Notification Systems"](https://cs.uwaterloo.ca/~jimmylin/publications/Roegiest_etal_SIGIR2017.pdf).
 
 It is expected that assessors will "subscribe" to interest profiles
 that they are interested in and that they will receive tweets from
@@ -249,10 +264,6 @@ the tweets are rendered as push notifications, there is no guarantee
 when the assessor is going to perform the assessment (if at all).
 
 ## Evaluation: Post Hoc Batch Evaluations
-
-In contrast to live user-in-the-loop assessments, the post hoc
-batch evaluation methodology has been refined over the past few years and
-has been experimentally validated.
 
 The evaluation methodology is based on pooling. A common pool will be
 constructed based on scenario A and scenario B submissions. The pool
@@ -269,7 +280,7 @@ see [overview paper](http://trec.nist.gov/pubs/trec24/papers/Overview-MB.pdf),
 which is in turn based on the Tweet Timeline
 Generation (TTG) task, see [Wang et al. (SIGIR 2015)](https://dl.acm.org/citation.cfm?id=2767699).
 
-It is anticipated that NIST will perform both the relevance assessment
+NIST assessors will perform both the relevance assessment
 and the semantic clustering. These outputs serve as inputs to separate
 metrics for scenario A and scenario B, detailed below.
 
@@ -292,7 +303,7 @@ where *N* is the number of tweets returned and *G(t)* is the gain of each tweet:
 
 Once a tweet from a cluster is retrieved, all other tweets from the
 same cluster automatically become not relevant. This penalizes systems
-for returning redundant information. Note that unlike last year, there
+for returning redundant information. There
 is no latency penalty applied to the gain; the latency is
 computed separately (see below).
 
@@ -304,15 +315,15 @@ particular day) is defined as follows:
 where *Z* is the maximum possible gain (given the ten tweet per day
 limit). The gain of each individual tweet is computed as above. Also,
 once a tweet from a cluster is retrieved, all other tweets from the
-same cluster automatically become not relevant. Note that unlike last
-year, there is no latency penalty applied to the gain; the latency is
+same cluster automatically become not relevant.
+There is no latency penalty applied to the gain; the latency is
 computed separately (see below).
 
 An interesting question is how scores should be computed for days in
 which there are no relevant tweets: for rhetorical convenience, we call
 days in which there are no relevant tweets for a particular interest
 profile (in the pool) "silent days", in contrast to "eventful days"
-(where there are relevant tweets). Previously: in the EG-1 and nCG-1 variants of
+(where there are relevant tweets). In previous years: in the EG-1 and nCG-1 variants of
 the metrics, on a "silent day", the system receives a score of one
 (i.e., perfect score) if it does not push any tweets, or zero
 otherwise. In the EG-0 and nCG-0 variants of the metrics, for a silent
@@ -322,18 +333,18 @@ that explores these variant metrics.
 
 However, this year we are introducing a slightly different way of
 handling the silent days, a metric variant we're calling EG-p and
-nCG-p (p for proportional). On a silent, the score is one minus the
+nCG-p (p for proportional). On a silent day, the score is one minus the
 fraction of the ten-tweet daily quota that is used. That is, if the
 system pushes 0 tweets, it receives a score of 1. If it pushes 1
 tweet, a score of 0.9; 2 tweets, 0.8; etc., such that if a system uses
-up it's quota of ten tweets for a silent day, it receives a score of
+up its quota of ten tweets for a silent day, it receives a score of
 zero. EG-p and nCG-p address the issue associated with the previous
 metrics that it's too binarized (i.e., either zero or
 one). Under EG-p and nCG-p, systems are still rewarded for
 recognizing that there are no relevant tweets for an interest profile
 on a particular day, and remaining silent (i.e., does not push any
-tweets). However, the penalty isn't very severe as long as the system
-stays relatively "quiet".
+tweets). However, the penalty is now proportional to how "quiet"
+the system is.
 
 **Gain Minus Pain (GMP)** is defined as follows:
 
@@ -367,5 +378,5 @@ explicitly model tradeoffs between the two factors.
 
 For scenario B runs, we compute the nDCG@10 score for each day for
 each interest profile, and then average across them. Silent days are
-treated the same way as the scenario A metrics, so we will more
-precisely measure nDCG@10-p.
+treated the same way as the scenario A metrics, so to be more
+precise, we will measure nDCG@10-p.
