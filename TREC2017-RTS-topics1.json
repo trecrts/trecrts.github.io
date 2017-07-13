@@ -1,0 +1,1038 @@
+[
+{
+   "narrative" : "The user has been advised by the pediatrician to have her child vaccinated against HPV. She has heard about the possibility of negative side effects.  The user would like to find tweets from people who have had personal or family experience with the vaccine.  She would like tweets concerning clinical research regarding its safety and efficacy as well.",
+   "title" : "HPV vaccine side effects",
+   "topid" : "RTS46",
+   "description" : "Information concerning possible side effects of the HPV vaccine."
+},
+
+{
+   "narrative" : "The user is considering running for office and would like to understand the ideas behind calls for term limits for politicians.  She is interested in information that identifies the range of individuals who support term limits and their reasons for doing so.",
+   "title" : "term limits for politicians",
+   "topid" : "RTS47",
+   "description" : "Why do people support term limits for politicians?"
+},
+
+{
+   "narrative" : "The user wishes to track what people order at Panera Bread.",
+   "title" : "Panera Bread",
+   "topid" : "RTS48",
+   "description" : "What are people ordering at Panera Bread?"
+},
+
+{
+   "narrative" : "The user likes whirligigs and would like to look at pictures of them or see them in real life. She might even want to buy one. Instructions on how to make them with no pictures are not relevant as she is not good at building things.",
+   "title" : "whirligigs",
+   "topid" : "RTS49",
+   "description" : "Where can one see or buy whirligigs?"
+},
+
+{
+   "narrative" : "The user is visiting the Middle East and is considering taking a tour to the ancient city of Petra.  She would like to see other's recommendations of tours to take and sites to see.",
+   "title" : "Petra tours",
+   "topid" : "RTS50",
+   "description" : "What are people's experiences with tours to Petra, Jordan."
+},
+
+{
+   "narrative" : "The user is planning to purchase a major appliance soon and is considering purchasing extended warranty coverage.  She is interested in information about different types of extended warranties, as well as other's rationales for or against purchasing such coverage.",
+   "title" : "extended warranties",
+   "topid" : "RTS51",
+   "description" : "Are extended warranties worth purchasing?"
+},
+
+{
+   "narrative" : "The user is a big fan of Barry Manilow and is going to create a Manilow-focused playlist.  She is looking for opinions regarding good songs to include on the list.",
+   "title" : "Barry Manilow playlist",
+   "topid" : "RTS52",
+   "description" : "Find opinions regarding the best Barry Manilow songs to include in a playlist."
+},
+
+{
+   "narrative" : "The user is a Justin Bieber fan looking to connect with other fans and to learn about any past or future concert.  She wants to see any tweets with information about future concert and tour dates, locations, and ticket pricing and availability.  She also wants to see tweets from fans with information about, and pictures of past concerts, as well as tweets from other fans planning to attend any future Justin Bieber concert.",
+   "title" : "Justin Bieber concert",
+   "topid" : "RTS53",
+   "description" : "Looking for tweets regarding a Justin Bieber concert."
+},
+
+{
+   "narrative" : "The user is trying to understand North Korea, and wants to know what anybody in that country is saying about its missile tests. Statements by President Kim Jong Un, members of the North Korean military, or any other North Korean are all relevant.",
+   "title" : "North Korea missile test",
+   "topid" : "RTS54",
+   "description" : "Find statements made by North Korea about its missile tests."
+},
+
+{
+   "narrative" : "The user is interested in official projections of the costs associated with any of the health care reform bills under consideration in the U.S. Senate.",
+   "title" : "Senate health care costs",
+   "topid" : "RTS55",
+   "description" : "What are the projected costs of any health care reform bills under consideration by the U.S. Senate?"
+},
+
+{
+   "narrative" : "The user wishes to track progress in the development of self-driving cars, particularly the technical advances being made and tests of prototype systems.  Reports of accidents during tests are of interest, but reports of hiring practices or legal challenges over rights to the technology are not.",
+   "title" : "self-driving cars",
+   "topid" : "RTS56",
+   "description" : "Find reports of technical progress in the development of self-driving cars."
+},
+
+{
+   "narrative" : "The user is a long-time fan of the soap opera \"General Hospital\". Kirsten Storms and the character she portrays, Maxie Jones, have been absent from the show for months. The user wants to see any tweets about Ms. Storms, including reasons for her absence, the possible duration of the absence, the possible fate of her character, and the possibility of either the actor's or character's return to the show. Tweets about the characters current and projected plot line on the program are of interest as well.",
+   "title" : "Kirsten Storms Maxie",
+   "topid" : "RTS57",
+   "description" : "Looking for information regarding the actor Kirsten Storms and her character Maxie on \"General Hospital\"."
+},
+
+{
+   "narrative" : "The user is performing a comparative analysis of different countries' responses to opioid abuse. She would like to find examples where a human death was attributed to opioid abuse anywhere in the world.",
+   "title" : "opioid abuse causing death",
+   "topid" : "RTS58",
+   "description" : "Find instances where a death was attributed to opioid abuse anywhere in the world."
+},
+
+{
+   "narrative" : "The user is a young fan of both Taylor Swift and Katy Perry.  She has been following accounts of the supposed feud between the two pop stars and finds the details fascinating.  She wants to see tweets with any details about the relationship between the two women, reasons for the rift, and whether the feud continues or is resolved.",
+   "title" : "Katy Perry Taylor Swift feud",
+   "topid" : "RTS59",
+   "description" : "Find information on the feud between pop stars Katy Perry and Taylor Swift."
+},
+
+{
+   "narrative" : "The user is a Beyonce fan who wants to see tweets about her newborn twin babies. Tweets about their sexes, names, birth weight and length, and health are of interest. The user wants to see any available pictures of the twins with or without their mom or other family members.",
+   "title" : "Beyonce's babies",
+   "topid" : "RTS60",
+   "description" : "Find information about Beyonce's babies."
+},
+
+{
+   "narrative" : "User would like to try making kale chips. She is looking for recipes and also tips.",
+   "title" : "kale chips",
+   "topid" : "RTS61",
+   "description" : "How do you make kale chips?"
+},
+
+{
+   "narrative" : "The user is committed to \"going green\", and is interested in following discussions identifying benefits to the environment of recycling vs. landfill use.  He is interested in seeing what kinds of materials are recyclable in different locations, as well as recycling tips and uses for recycled items. Information on turning waste into fuel and next-generation landfills is also of interest.",
+   "title" : "landfills and recycling",
+   "topid" : "RTS62",
+   "description" : "What are the benefits to the environment of recycling vs. using landfills? What types of materials can be recycled?"
+},
+
+{
+   "narrative" : "U.S. support of Kurdish forces in Syria has caused diplomatic disagreements between Turkey and the U.S. The user is interested in news and discussions with respect to these disagreements, including news of Turkish attacks on the Syrian Kurdish forces and U.S. moves to further support them.",
+   "title" : "U.S., Turkey, Kurds",
+   "topid" : "RTS63",
+   "description" : "What is the impact on U.S. and Turkey relations of U.S. support of Kurdish forces in Syria?"
+},
+
+{
+   "narrative" : "The user is interested in accounts of specific cases of elder abuse.",
+   "title" : "elder abuse",
+   "topid" : "RTS64",
+   "description" : "Find cases of elder abuse."
+},
+
+{
+   "narrative" : "The user is looking for suggestions on how best to prepare burgers for grilling and for tips on the grilling process itself.",
+   "title" : "grilling burgers",
+   "topid" : "RTS65",
+   "description" : "How do people prepare and grill good burgers?"
+},
+
+{
+   "narrative" : "The user has been closely following the political unrest in Venezuela, and is concerned that President Maduro's plan to change the country's constitution will make the government more dictatorial.  She is interested in seeing tweets that discuss possible retaliation by other countries if such a change is made, and especially on suggestions by the U.S. that it will impose sanctions on Venezuela if the constitution is changed.",
+   "title" : "Venezuela constitution sanctions",
+   "topid" : "RTS66",
+   "description" : "What countries are considering sanctions against Venezuela if they create a new constitution?"
+},
+
+{
+   "narrative" : "The user is a buyer for the Trader Joe's supermarket chain and is interested in tweets about purchases made at a Trader Joe's store.",
+   "title" : "Trader Joe's",
+   "topid" : "RTS67",
+   "description" : "What are people buying at Trader Joe's?"
+},
+
+{
+   "narrative" : "The user is an avid kayaker, and wants to follow other enthusiasts' experiences while kayaking.  He is also interested in reports of dangers encountered while kayaking, but is not interested in ads for kayaking tours or for the kayaks themselves.",
+   "title" : "kayaking",
+   "topid" : "RTS68",
+   "description" : "What experiences have people had while kayaking?"
+},
+
+{
+   "narrative" : "The user bought some chorizo sausage but doesn't know what to do with it. She is looking for some ways to cook it or combine it with other foods.",
+   "title" : "chorizo sausage",
+   "topid" : "RTS69",
+   "description" : "What are some ways to fix chorizo sausage?"
+},
+
+{
+   "narrative" : "The user holds several bank CDs in the U.S., and is interested in the prospect of increases or decreases in U.S. interest rates, including both treasury bill and bank rates.  He is not interested in non-U.S. interest rate changes.",
+   "title" : "U.S. interest rates",
+   "topid" : "RTS70",
+   "description" : "Track predictions of changes in U.S. interest rates."
+},
+
+{
+   "narrative" : "The user is a U.S. citizen trying to understand the situation in Venezuela. She is interested in what Maduro is doing and saying, and also other people's opinions of him. She is also interested in predictions concerning Maduro's tenure.",
+   "title" : "Venezuela President Maduro",
+   "topid" : "RTS71",
+   "description" : "Find information on Venezuela's President Maduro."
+},
+
+{
+   "narrative" : "The user's son has injured his rotator cuff, and she is curious about the prevalence of rotator cuff injuries.  She would like to see tweets about specific cases of rotator cuff injuries, including the type of injury, the cause of the injury, and the treatment of the injury.",
+   "title" : "rotator cuff injuries",
+   "topid" : "RTS72",
+   "description" : "Find cases where people have injured their rotator cuffs."
+},
+
+{
+   "narrative" : "The user will be hosting a swimming pool party and wants to see what activities others enjoy at pool parties.",
+   "title" : "pool parties",
+   "topid" : "RTS73",
+   "description" : "Find tweets about people's activities while attending swimming pool parties."
+},
+
+{
+   "narrative" : "The user is a fan of NBC's television show, \"America's Got Talent,\" but is currently unable to watch the show live. She wants to see tweets about which AGT acts have or haven't made it to the semi finals. Tweets that describe and/or critique the latest performances as well as the competition results are relevant. Tweets with information about upcoming show dates or those with video clips also are of interest.",
+   "title" : "AGT semi finals",
+   "topid" : "RTS74",
+   "description" : "Find information on which acts have been chosen to compete in the AGT semi finals."
+},
+
+{
+   "narrative" : "The user is a tennis fan who is amazed that Serena Williams won her 23rd Grand Slam while pregnant.  The user wants to see all tweets related Ms. William's pregnancy, including her health, the progress of her pregnancy, her due date and any details about her baby.  Tweets and pictures of a pregnant Serena Williams as she attends celebrity and social events also are of interest.",
+   "title" : "Serena Williams pregnant",
+   "topid" : "RTS75",
+   "description" : "Looking for information about Serena Williams being pregnant. "
+},
+
+{
+   "narrative" : "The user is a senior citizen who is trying to get motivated to add more physical activity into his life.  He would like to see examples of exercises others seniors actually do, as well as reports on the various ways exercise improves seniors' quality of life.",
+   "title" : "exercise for seniors",
+   "topid" : "RTS76",
+   "description" : "What sorts of exercise do seniors actually do and how does the exercise benefit them?"
+},
+
+{
+   "narrative" : "The user has never been to Legoland and wonders if it would be something she would enjoy. Anything that shows clear pictures of Legoland attractions is relevant. Descriptions of fun Legoland things are also relevant. Attractions at any of the several Legolands are relevant.",
+   "title" : "Legoland",
+   "topid" : "RTS77",
+   "description" : "What is there to see and do at Legoland?"
+},
+
+{
+   "narrative" : "The user likes to eat salmon but is tired of the way she normally cooks it.  She would like to see others' favorite ways to prepare salmon, and is especially interested in specific recipes.",
+   "title" : "cooking salmon",
+   "topid" : "RTS78",
+   "description" : "What are people's favorite way of cooking salmon or otherwise preparing it to eat?"
+},
+
+{
+   "narrative" : "The user enjoys making cards and wants design ideas. She has lots of stamps, tools and papers and doesn't want to buy more. She wants inspiration to use up the Stampin Up materials she already has.",
+   "title" : "Stampin Up",
+   "topid" : "RTS79",
+   "description" : "Find examples of finished cards or other Stampin Up creations. "
+},
+
+{
+   "narrative" : "The user is a beer aficionado who wants to see other's opinions of good beer and the best cities to obtain good beer.",
+   "title" : "best beer",
+   "topid" : "RTS80",
+   "description" : "What do people think are the best beers and the best cities for beer?"
+},
+
+{
+   "narrative" : "The user is considering undergoing immunotherapy treatment and is interested in accounts from others who have had such treatment.  She is particularly interested in the reason for the treatment, how successful the treatment was, and any complications associated with the treatment in that case.  The cost of the treatment is also of interest.",
+   "title" : "immunotherapy",
+   "topid" : "RTS81",
+   "description" : "Find accounts of immunotherapy treatments."
+},
+
+{
+   "narrative" : "The user is a food writer and is preparing a column on hot dogs.  She would like to track people's opinions regarding the best hot dogs as well as the way they prefer them to be prepared or served.",
+   "title" : "best hot dogs",
+   "topid" : "RTS82",
+   "description" : "Who makes the best hot dogs? How do people like their hot dogs to be prepared or served?"
+},
+
+{
+   "narrative" : "The user is a manager of a Sheetz gas station and is interested in tracking the favorite food purchases of customers from any Sheetz gas station.",
+   "title" : "Sheetz",
+   "topid" : "RTS83",
+   "description" : "What food are people buying at Sheetz gas stations?"
+},
+
+{
+   "narrative" : "The user is planning a trip to Boston, MA at the end of the summer and wants to travel the famous Freedom Trail while there.  She wants to see tweets with information regarding the trail's route, distance, walkability, and what sites can be seen along the trail.  She is especially interested in seeing tweets with advice regarding footwear, options for modes of transportation and places to find good food and drink along the way.",
+   "title" : "Freedom Trail",
+   "topid" : "RTS84",
+   "description" : "Find information about the Freedom Trail in Boston, MA."
+},
+
+{
+   "narrative" : "The user is a buyer for the Forever 21 chain of clothing stores and wants to see tweets about purchases made at a Forever 21 store.",
+   "title" : "Forever 21",
+   "topid" : "RTS85",
+   "description" : "What are people buying at Forever 21?"
+},
+
+{
+   "narrative" : "The user uses a wheelchair and would like to track the amount he travels in a day. He has been told cycling computers, devices that measure speed and distance traveled for bicycles, can also be used on wheelchairs.  He wishes to see reviews and descriptions of bike cycling computers that he might use on his wheel chair.",
+   "title" : "cycling computer",
+   "topid" : "RTS86",
+   "description" : "Find tweets with recommendations for, specifications of, or anecdotes about the use of cycling computers---devices that measure the speed and distance traveled of bicycles."
+},
+
+{
+   "narrative" : "The user is thinking of getting a mandoline for slicing vegetables fast. She wants to see several brands and their prices. She also would like people's recommendations concerning brands, and their experiences using their mandolines.",
+   "title" : "mandoline slicer",
+   "topid" : "RTS87",
+   "description" : "Find information on various mandoline slicers, recommendations regarding brands, and tips on using a mandoline."
+},
+
+{
+   "narrative" : "The user is a fast food restaurant frequenter who has heard that McDonald's offers secret menu items to those in the know. He is looking for any tweets regarding secret menu items, how to order them, and which restaurants offer the menus. Reviews of the taste of the menu items are of interest as well.",
+   "title" : "McDonald's secret menu",
+   "topid" : "RTS88",
+   "description" : "Looking for information about McDonald's secret menu items."
+},
+
+{
+   "narrative" : "The user is interested in going on an Alaskan cruise. She wants to see tweets about cruise lines, prices, amenities and destinations.  She also wants to see tweets regarding other people's experiences on such cruises as well as their recommendations.",
+   "title" : "Alaskan cruise",
+   "topid" : "RTS89",
+   "description" : "Find information about Alaskan cruises."
+},
+
+{
+   "narrative" : "The user is gamer and a fan of comics, anime, graphic novels, TV and movies who wants to attend the 2017 New York Comic-Con.  He wants to see tweets about all aspects of the convention, including dates, times, tickets, schedules, and presenters.  He is interested in the general buzz about the convention, and is looking for tweets from other prospective attendees as well.",
+   "title" : "New York Comic-Con",
+   "topid" : "RTS90",
+   "description" : "Looking for information regarding dates and events for the 2017 New York Comic-Con."
+},
+
+{
+   "narrative" : "The user is a breast cancer survivor and wants to keep current with the latest advancements in research for new treatments for breast cancer.",
+   "title" : "breast cancer research",
+   "topid" : "RTS91",
+   "description" : "What are the new developments in breast cancer research?"
+},
+
+{
+   "narrative" : "The user is a fan of the Acorn TV series \"Miss Fisher's Murder Mysteries\". She would like to know how widely appreciated it is, and what people have to say about it. Episodes offered for sale are not relevant.",
+   "title" : "Miss Fisher's Murder Mysteries",
+   "topid" : "RTS92",
+   "description" : "Find people who watch the TV series \"Miss Fisher's Murder Mysteries\"."
+},
+
+{
+   "narrative" : "The user wants to see examples of the problems people have encountered when dialing 911 in the U.S. to access emergency services. He is also interested in discussions of potential problems the service will face when regions switch from landlines to VOIP.",
+   "title" : "911 problems",
+   "topid" : "RTS93",
+   "description" : "What problems have people encountered when using the 911 emergency services access number in the U.S.?"
+},
+
+{
+   "narrative" : "The user follows world affairs, and is interested in how China, a close and powerful neighbor of North Korea, is reacting to North Korea's missile tests. China's public statements are relevant, as well as speculation on Chinese reaction by others.",
+   "title" : "China and North Korea missile test",
+   "topid" : "RTS94",
+   "description" : "Find Chinese reactions to North Korea's missile tests."
+},
+
+{
+   "narrative" : "The user is an avid hiker herself and would like to know what other hikers experience as they are hiking.",
+   "title" : "hiking",
+   "topid" : "RTS95",
+   "description" : "Find tweets made while people are hiking."
+},
+
+{
+   "narrative" : "The user is planning a visiting Australia. He would like to see opinions from other visitors of places to go and things to see while in the country. Other Australia travel tips and information is also of interest.",
+   "title" : "visit Australia",
+   "topid" : "RTS96",
+   "description" : "What are people's experiences when visiting Australia?"
+},
+
+{
+   "narrative" : "The user is a Chipotle Mexican Grill customer who has heard that there might be secret menu items available at the restaurant.  He is looking for tweets about the existence of any secret menu items that might be offered, including descriptions, reviews, availability, and locations.",
+   "title" : "Chipotle secret menu",
+   "topid" : "RTS97",
+   "description" : "Looking for information about secret menu items at Chipotle."
+},
+
+{
+   "narrative" : "The user wishes to follow Brexit negotiations specifically focused on the cost Great Britain must pay to the E.U. to leave. Estimates of economic losses to Great Britain resulting from Brexit are not relevant.",
+   "title" : "Brexit negotiated cost",
+   "topid" : "RTS98",
+   "description" : "As part of Brexit, Great Britain leaving the E.U., Great Britain must pay the E.U. a sum to be negotiated; what will that cost be?"
+},
+
+{
+   "narrative" : "The user loves to eat everything but has been experiencing acid reflux. She's like to find other sufferer's ideas (folk remedies) for how best to address the acid reflux.",
+   "title" : "acid reflux folk remedies",
+   "topid" : "RTS99",
+   "description" : "What folk remedies are there for acid reflux?"
+},
+
+{
+   "narrative" : "The user lives in coastal Alabama and is concerned about hurricanes that might impact his home and community.  He wants to see any and all tweets indicating a hurricane warning has been issued for a storm that will affect anywhere along the U.S. gulf coast.  Tweets about a hurricane expected to directly impact Alabama are of greatest concern.",
+   "title" : "hurricane gulf coast",
+   "topid" : "RTS100",
+   "description" : "Looking for information about a hurricane projected to impact the U.S. gulf coast."
+},
+
+{
+   "narrative" : "Brazil's current president, Michel Temer, has been charged with corruption.  The user is interested in reports detailing the charges as well as moves to replace Temer.",
+   "title" : "Brazil president corruption",
+   "topid" : "RTS101",
+   "description" : "Find news on corruption charges against Brazilian President Michel Temer"
+},
+
+{
+   "narrative" : "The user is planning a vacation and hopes to include attending a hot air balloon festival in the itinerary.  Tweets with information about any festivals held in the United States are of interest.  The user is primarily looking for dates and locations, but would like information about lodging and other attractions convenient to the festivals.",
+   "title" : "hot air balloon festival",
+   "topid" : "RTS102",
+   "description" : "Looking for information about any hot air balloon festival going on in the United States."
+},
+
+{
+   "narrative" : "The user is a young watcher of the soap opera \"Days of Our Lives.\" She is interested in the new story line about teen characters Jade and Joey and wants to see any tweets from other fans about it. She wants to see all tweets regarding these two characters and their relationship to each other and other characters on the show. Tweeters' updates, opinions and reviews are of interest.",
+   "title" : "\"Days of our Lives\" Jade Joey",
+   "topid" : "RTS103",
+   "description" : "What do people think about the \"Days of Our Lives\" summer teen story line of Jade and Joey?"
+},
+
+{
+   "narrative" : "The user is researching an article on aggressive driving and is especially interested in tweets where drivers admit they drive aggressively.  Information on how to keep oneself safe around aggressive drivers and suggestions for curbing the behavior are also of interest.",
+   "title" : "aggressive driving",
+   "topid" : "RTS104",
+   "description" : "Find tweets that contain confessions of aggressive driving or suggestions on how to control the problem."
+},
+
+{
+   "narrative" : "The user is an Il Volo fan who wants to see any tweets regarding the trio.  Tweets of interest include:  reviews of albums, singles and performances; information about concerts and television appearances; collaborative musical projects; fan gossip and rumors; opinions of the trio's talent, recordings and performances; and personal experiences attending or viewing Il Volo concerts, performances and videos.",
+   "title" : "Il Volo",
+   "topid" : "RTS105",
+   "description" : "Looking for any information about the Italian operatic pop trio Il Volo."
+},
+
+{
+   "narrative" : "The user would like to track both arguments for and against conceal carry laws in the U.S.  Examples of how conceal carry laws resulted in a positive affect are of interest, as are particular concerns of law enforcement with respect to expanded carry laws.",
+   "title" : "conceal carry laws",
+   "topid" : "RTS106",
+   "description" : "What are people's opinions on conceal carry laws?"
+},
+
+{
+   "narrative" : "The user was recently diagnosed with rheumatoid arthritis. She is looking for first-hand accounts of successful treatment regimens for the condition.",
+   "title" : "rheumatoid arthritis",
+   "topid" : "RTS107",
+   "description" : "What treatments have people found to be successful for rheumatoid arthritis?"
+},
+
+{
+   "narrative" : "The user is a backyard gardener with a bumper crop of watermelon.  She would like to see ways in which the watermelon can be put to use.",
+   "title" : "watermelon",
+   "topid" : "RTS108",
+   "description" : "What are different ways people use watermelon in food and drinks?"
+},
+
+{
+   "narrative" : "The user is considering using the Lyft service, but wants to do a cost comparison against other modes of transportation first.  He wants to find tweets that advertise regular prices or special deals for Lyft to make that comparison.",
+   "title" : "Lyft prices",
+   "topid" : "RTS109",
+   "description" : "Find information about Lyft prices and special deals."
+},
+
+{
+   "narrative" : "The user is an analyst studying charitable giving and wants to see tweets that discuss making donations to the LIVESTRONG Foundation, which fights to improve the lives of people affected by cancer.  She is particularly interested in tweets that mention why the contribution was made.",
+   "title" : "LIVESTRONG",
+   "topid" : "RTS110",
+   "description" : "Find tweets about making charitable contributions to the LIVESTRONG Foundation."
+},
+
+{
+   "narrative" : "The user is a PC gamer interested in SimCity-type games and is awaiting the release of the new Aven Colony game. The user wants to see any tweets about the game's projected and actual release date, pricing and its popularity among other gamers. Tweets from those who have played the new game that describe its graphics, playing experience, playing tips, and reviews are of interest.",
+   "title" : "Aven Colony",
+   "topid" : "RTS111",
+   "description" : "Find information about the release of the Aven Colony game."
+},
+
+{
+   "narrative" : "The user is a Taylor Swift fan.  He wants to see tweets concerning the possible release, or drop date of her next music album. Tweets containing information about, or critiques of the new album and any associated songs or music videos are also of interest.",
+   "title" : "Taylor Swift new album",
+   "topid" : "RTS112",
+   "description" : "Find information about the release of a new album by Taylor Swift."
+},
+
+{
+   "narrative" : "The user is an avid fan of the Philadelphia Eagles and wants to follow the activity and news coming from the team's training camp.",
+   "title" : "Eagles training camp",
+   "topid" : "RTS113",
+   "description" : "Find information on the day to day activities of the Philadelphia Eagles NFL training camp."
+},
+
+{
+   "narrative" : "The user lives near the ocean on the east coast of the United States.  He wants to see tweets about the possibility of a hurricane that would affect his home to prepare for the storm's possible effects.  He is particularly concerned about the expected path, timing and strength of an upcoming hurricane.",
+   "title" : "hurricane U.S. east coast",
+   "topid" : "RTS114",
+   "description" : "Return information regarding hurricane activity affecting the east coast of the U.S."
+},
+
+{
+   "narrative" : "The user is a football fan who has followed Robert Griffin III, RG3, since his college days at Baylor.  He wants to see tweets about all facets of RG3's football career, including those regarding his history in college and the NFL, his health ad fitness, and his current and future prospects for the 2017 season.",
+   "title" : "RG3",
+   "topid" : "RTS115",
+   "description" : "Find information about the professional football career of NFL quarterback RG3."
+},
+
+{
+   "narrative" : "The user is interested in tracking sentiment in the U.S. toward the Americans with Disabilities act, particularly with respect to the act's vulnerability to reductions in funding, the lack of understanding of the plight of Americans who have disabilities, and criticisms of perceived tepid support of the act by politicians.",
+   "title" : "Americans with Disabilities act",
+   "topid" : "RTS116",
+   "description" : "How are Americans with disabilities faring under the Americans with Disabilities Act (ADA)?"
+},
+
+{
+   "narrative" : "The user may soon be moving to Maryland and wants to understand the political climate with respect to smoking.  She wants to follow news and discussions of proposed or passed legislation on smoking bans in any jurisdiction in Maryland.  Both tobacco smoking and vaping bans are of interest, but not other sorts of smoking.",
+   "title" : "Maryland smoking bans",
+   "topid" : "RTS117",
+   "description" : "Find news and discussion regarding the banning of smoking in any part of Maryland."
+},
+
+{
+   "narrative" : "The user is planning a trip to Gettysburg, PA and wants to visit historical sites while there.  He is looking for recommendations for what sites to visit and any tips for making the most out of the visit.",
+   "title" : "visiting Gettysburg",
+   "topid" : "RTS118",
+   "description" : "What historical sites should one visit in Gettysburg, PA?"
+},
+
+{
+   "narrative" : "The user is a big fan of Nora Roberts novels.   She is looking for tweets from other readers and fans to share information about the author and her novels. Tweets about novels currently being read and fan reviews are of interest. The user also is looking for tweets regarding biographical information, favorite or famous quotes and any future public appearances of Nora Roberts.",
+   "title" : "Nora Roberts",
+   "topid" : "RTS119",
+   "description" : "Looking for fellow fans of author Nora Roberts."
+},
+
+{
+   "narrative" : "Since May 23, ISIS fighters have held the Philippines city of Marawi, and Philippines armed forces have been trying to take back the city.  I am interested in any news on the progress, or lack of progress, of this effort, as well as any involvement of US forces in this operation.",
+   "title" : "Philippines Marawi ISIS",
+   "topid" : "RTS120",
+   "description" : "I am interested in news on the battle between the Philippines army and ISIS in the city of Marawi."
+},
+
+{
+   "narrative" : "The user is part of a mock legislature program tasked with debating the current U.S. federal tax structure. To prepare for her role in the mock sessions, she would like to see opinions for and against reform of the actual federal tax system.",
+   "title" : "U.S. tax reform",
+   "topid" : "RTS121",
+   "description" : "Find opinions for or against federal tax reform legislation in the U.S."
+},
+
+{
+   "narrative" : "The user is interested in reports of specific cyber warfare attacks that are attributed to be the work of North Korean hackers.",
+   "title" : "cyber warfare North Korea",
+   "topid" : "RTS122",
+   "description" : "What cyber warfare attacks are alleged to have been perpetrated by North Korea?"
+},
+
+{
+   "narrative" : "The user is an avid reader who wants to join an online book club to share thoughts and reviews about books she reads for pleasure.  The user wants to see tweets regarding or recommending established online book clubs and those from tweeters who are looking to establish new online clubs. However, tweets about book clubs set up to serve business or professional interest are not wanted.",
+   "title" : "online book club",
+   "topid" : "RTS123",
+   "description" : "Looking for information about online book clubs."
+},
+
+{
+   "narrative" : "The user is a reluctant traveler who needs to take a trip in the next several weeks.  To prepare for her own trip, she is looking for reports of problems people have experienced while traveling. Reports of solutions travelers found for those problems are especially welcome.",
+   "title" : "travel problems",
+   "topid" : "RTS124",
+   "description" : "What problems are people encountering while traveling?"
+},
+
+{
+   "narrative" : "The user is a social activist living in Michigan who is concerned about the plight of home-owners in Flint, Michigan.  She has heard that the state is threatening to foreclose on the homes of Flint residents who do not pay their water bills even though the water is unsafe. She wants to follow news and discussion of this issue.",
+   "title" : "Flint water foreclosure",
+   "topid" : "RTS125",
+   "description" : "Find news about and reaction to Michigan threatening foreclosure to residents of Flint who fail to pay their water bills even though the water is unsafe to drink."
+},
+
+{
+   "narrative" : "The user is a fan of Lee Child's Jack Reacher mystery/thrillers and would like to know what others say about them. What attracts other readers to the books? Book reviews of Child's books are relevant. Comments concerning only the movies are not relevant. Sellers offering Lee Child books for sale are not relevant.",
+   "title" : "Lee Child",
+   "topid" : "RTS126",
+   "description" : "Find readers of Lee Child's books."
+},
+
+{
+   "narrative" : "The user would like to start selling some things on Amazon and would like to receive tips for how to go about it. She is also interested in knowing pitfalls to look out for.",
+   "title" : "selling on Amazon",
+   "topid" : "RTS127",
+   "description" : "Find tips for selling on Amazon."
+},
+
+{
+   "narrative" : "The user is an avid reader who is looking for suggestions about books to read over the summer.  He wants to see tweets with suggestions, reviews and pointers to websites with suggested reading lists. Tweeters' reviews and opinions are of particular interest.",
+   "title" : "summer reading",
+   "topid" : "RTS128",
+   "description" : "Looking for suggestions for summer reading."
+},
+
+{
+   "narrative" : "The user has family living in Puerto Rico and would like to track the government's response to its debt crisis.",
+   "title" : "Puerto Rico debt",
+   "topid" : "RTS129",
+   "description" : "What steps is Puerto Rico taking to address its debt crisis?"
+},
+
+{
+   "narrative" : "The user wants to see tweets about the activities of people while attending a county fair in the U.S.",
+   "title" : "county fair",
+   "topid" : "RTS130",
+   "description" : "What do people do while attending a county fair in the U.S.?"
+},
+
+{
+   "narrative" : "The user is interested in tracking reports of direct conflict between U.S. forces in Syria and Syrian allied forces.  Reports or discussion focused solely on civilian casualties are not of interest.",
+   "title" : "U.S. Syrian conflict",
+   "topid" : "RTS131",
+   "description" : "Find reports of direct conflicts between U.S. and Syrian troops, including Syrian-backed troops."
+},
+
+{
+   "narrative" : "The user has become nervous about swimming or snorkeling in the ocean because of the danger of shark attacks. She would like information about actual attacks to judge how likely and how serious they are. She is only interested in real attacks, not in movies or on TV. She is not interested in generalized statements about shark attacks.",
+   "title" : "shark attacks",
+   "topid" : "RTS132",
+   "description" : "Find instances of shark attacks."
+},
+
+{
+   "narrative" : "The user is considering spending a semester studying abroad and would like to see what experiences others have had while doing so to inform her decision.",
+   "title" : "semester abroad",
+   "topid" : "RTS133",
+   "description" : "What experiences have others had while spending a semester studying abroad?"
+},
+
+{
+   "narrative" : "The user would like to see what activities or experiences students are anticipating as the go back to school. He is interested in either positive or negative expectations.",
+   "title" : "back to school",
+   "topid" : "RTS134",
+   "description" : "What are people anticipating when they return back to school?"
+},
+
+{
+   "narrative" : "The user is a movie fan who is interested in the buzz about the soon-to-be released \"The Emoji Movie.\" Of interest are tweets about the movie's cast, release date, trailers and previews.  The user is looking for the impressions, opinions and anticipation of tweeters prior to the movie's release, as well as the opinions and reviews of those having seen it.",
+   "title" : "Emoji Movie",
+   "topid" : "RTS135",
+   "description" : "Looking for information about the upcoming \"The Emoji Movie.\""
+},
+
+{
+   "narrative" : "The user is an avid baseball fan who wants to see other fans' predictions for the teams that will meet each other in the 2017 World Series.",
+   "title" : "2017 World Series",
+   "topid" : "RTS136",
+   "description" : "Find predictions for which MLB teams will end up in the 2017 World Series."
+},
+
+{
+   "narrative" : "The user has a friend who describes himself as a professional hypnotist. She is curious about what kind of career a hypnotist could have. She wants to learn about other professional hypnotists, or at least people who have been trained in hypnosis and don't necessarily call themselves professionals.",
+   "title" : "hypnotist",
+   "topid" : "RTS137",
+   "description" : "Identify professional or trained hypnotists."
+},
+
+{
+   "narrative" : "The user is an avid cycler and wants to follow any injuries to riders in this year's Tour de France race.",
+   "title" : "Tour de France",
+   "topid" : "RTS138",
+   "description" : "What injuries happened in this year's Tour de France?"
+},
+
+{
+   "narrative" : "The user had never heard the term \"leafleting\" and is curious how widely it is used, and in what contexts.",
+   "title" : "leafleting",
+   "topid" : "RTS139",
+   "description" : "Find examples of leafleting."
+},
+
+{
+   "narrative" : "The user is interested in details of negotiations in the U.S. Congress regarding raising the federal debt ceiling, including the positions various political parties are actually taking.  Opinion pieces on what the author thinks a party should do are not of interest, nor are predictions on how the market or the price of commodities will be affected.",
+   "title" : "debt ceiling increase",
+   "topid" : "RTS140",
+   "description" : "Find information on the negotiations over a debt ceiling increase for the U.S. federal government."
+},
+
+{
+   "narrative" : "The user is planning to compete in a triathlon for the first time.  He is looking for tweets with training tips from other triathletes as well as pointers to websites, books, or videos about triathlon training. Tweets sharing others' experiences and support, and those offering advice about training equipment, apparel and gear also are wanted.",
+   "title" : "triathlon training",
+   "topid" : "RTS141",
+   "description" : "Find information and tips on training to compete in a triathlon."
+},
+
+{
+   "narrative" : "The user is planning a trip to the National Harbor for the first time. He wants to see any tweets that describe information about places to go and things to do there.  Of interest are tweets about hotels and restaurants at the harbor, sites to see, upcoming shows, and entertainment opportunities. Tweets describing individuals' experiences at the National Harbor also are of interest, including pictures and reviews.",
+   "title" : "National Harbor",
+   "topid" : "RTS142",
+   "description" : "Find information about entertainment at the National Harbor."
+},
+
+{
+   "narrative" : "The user is a market analyst for an ice cream company.  He wants to track people's opinions regarding the best ice cream as well as the their favorite ways to eat it.",
+   "title" : "best ice cream",
+   "topid" : "RTS143",
+   "description" : "Who makes the best ice cream? What are people's favorite ways to eat ice cream?"
+},
+
+{
+   "narrative" : "The user is afraid of trains. She may need to ride an Amtrak train regularly and wants to know of any accidents that befall trains, or happen to people who are around them.",
+   "title" : "Amtrak accidents",
+   "topid" : "RTS144",
+   "description" : "Find mentions of accidents involving Amtrak"
+},
+
+{
+   "narrative" : "The user is interested in how people perceive the Al Jazeera media network.  News covered by the network is not of interest.",
+   "title" : "Al Jazeera",
+   "topid" : "RTS145",
+   "description" : "What are people's opinions of the Al Jazeera media network?"
+},
+
+{
+   "narrative" : "The user is interested in learning details of actual tsunamis, tsunami warnings that have been issued, and tsunami warning systems. Tsunami survival equipment or other approaches to surviving a tsunami are also relevant. The term \"tsunami\" used metaphorically is not relevant. Tsunami festivals are also not relevant.",
+   "title" : "tsunami",
+   "topid" : "RTS146",
+   "description" : "Find accounts of actual and warned tsunamis."
+},
+
+{
+   "narrative" : "The user is planning his own vacation later this summer where he will travel in the U.S. He and is looking for reports of other people's favorite U.S.-based summer vacation experiences.",
+   "title" : "favorite summer vacations",
+   "topid" : "RTS147",
+   "description" : "What were people's favorite summer vacation experiences in the U.S.?"
+},
+
+{
+   "narrative" : "An Aldi grocery store is opening near the user. She has never been in one before and wonders what other people think of them. Do others like Aldi or not? What is good to buy there?",
+   "title" : "Aldi",
+   "topid" : "RTS148",
+   "description" : "What has been people's shopping experience at Aldi?"
+},
+
+{
+   "narrative" : "The user is a follower of the soap opera \"General Hospital\" and is intrigued by the newer character, Valentin Cassadine. She wants to see any tweets regarding the character, including his mysterious past, his complicated relationships with current characters, and if or how his character will continue on the program. The user also wants to see any tweets about or from the actor who currently portrays Valentin, James Patrick Stewart.",
+   "title" : "\"General Hospital\" Valentin",
+   "topid" : "RTS149",
+   "description" : "Looking for information regarding the story line for the character Valentin Cassadine on \"General Hospital\"."
+},
+
+{
+   "narrative" : "The user wants to understand the First Lady. What does she do with her time? What does she say or think? What public activities is she involved in? Snarky comments imaging her comments or thought are not relevant.",
+   "title" : "Melania Trump ",
+   "topid" : "RTS150",
+   "description" : "Who is Melania Trump?"
+},
+
+{
+   "narrative" : "The user is a buyer for the Abercrombie & Fitch chain of clothing stores and wants to see tweets about purchases made at an Abercrombie & Fitch store.",
+   "title" : "Abercrombie & Fitch",
+   "topid" : "RTS151",
+   "description" : "What are people buying at Abercrombie & Fitch?"
+},
+
+{
+   "narrative" : "The user has the condition known as dry eyes. She wants to see other's experiences with using eye drops for this condition.  Do eye drops help?  what are the best kinds of eye drops to use?",
+   "title" : "drops for dry eyes",
+   "topid" : "RTS152",
+   "description" : "Find information about using eye drops for dry eyes."
+},
+
+{
+   "narrative" : "The user is planning a summer vacation to Florida, and is considering going to South Beach.  She wants to see other's opinions, pro and con, of vacationing in South Beach in the summer.",
+   "title" : "South Beach Florida",
+   "topid" : "RTS153",
+   "description" : "Find opinions regarding vacationing in South Beach, Florida in the summer."
+},
+
+{
+   "narrative" : "The user is looking for opinions regarding the best beaches in the world.  The user is only interested in individual traveler's opinions, i.e., he is not interested in promotional tweets by tourism boards, travel companies, or writers of books, websites, and such.",
+   "title" : "best beaches",
+   "topid" : "RTS154",
+   "description" : "What do people think are the world's best beaches?"
+},
+
+{
+   "narrative" : "The user suffers from low back pain and her doctor has suggested treating it with a heating pad. She would like to know what heating pads (heating pad types and/or brand names) other people recommend before purchasing one.",
+   "title" : "heating pad recommendations",
+   "topid" : "RTS155",
+   "description" : "What heating pads are recommended for treating low back pain?"
+},
+
+{
+   "narrative" : "The user is planning on taking a cruise to Cuba.  She would like to see other's opinions of their experiences when traveling to Cuba on a cruise.",
+   "title" : "cruises to Cuba",
+   "topid" : "RTS156",
+   "description" : "What experiences have people had on cruises to Cuba?"
+},
+
+{
+   "narrative" : "The user is a new rock climber and would like to know what accidents others have had while rock climbing to be better prepared.",
+   "title" : "rock climbing accidents",
+   "topid" : "RTS157",
+   "description" : "Find tweets about accidents people have had while rock climbing."
+},
+
+{
+   "narrative" : "The user is about to relocate and move into a new home.  She would like to see what celebrations or rituals others observe as they move into a new home.  She is not interested in tweets about the hassles or difficulties of moving.",
+   "title" : "new home celebration",
+   "topid" : "RTS158",
+   "description" : "What celebrations or rituals do people observe when they move into a new home?"
+},
+
+{
+   "narrative" : "The user is a football fan and is considering using NFL Redzone to watch multiple games simultaneously. He would like to see others' opinions of the service including what devices are best used and any problems with the service.",
+   "title" : "NFL Redzone",
+   "topid" : "RTS159",
+   "description" : "What are people's experiences with NFL Redzone?"
+},
+
+{
+   "narrative" : "The user is a fan of thoroughbred horse racing and is curious to know what the horses' lives are like once they are unable to race. Information about rescue organizations for such horses is also of interest.",
+   "title" : "thoroughbred horses retirement",
+   "topid" : "RTS160",
+   "description" : "How do thoroughbred horses live once they are retired from racing?"
+},
+
+{
+   "narrative" : "The user will be having hip replacement surgery and wants to see first-hand accounts of what others experienced after having a hip replaced.",
+   "title" : "hip replacement",
+   "topid" : "RTS161",
+   "description" : "Find first-hand accounts of experiences with hip replacements."
+},
+
+{
+   "narrative" : "The user is a Baltimore Orioles baseball fan interested in how well the team is performing and its standing in Major League Baseball. She is unable to attend the series between the Orioles and their rivals the Tampa Bay Rays, and wants to see tweets about the progress of the games, the individual players performance, and the outcome of the games.",
+   "title" : "Baltimore Orioles vs. Tampa Bay Rays",
+   "topid" : "RTS162",
+   "description" : "Find information about the progress and outcome of Baltimore Orioles vs. Tampa Bay Rays baseball games."
+},
+
+{
+   "narrative" : "The user is  interested in the U.S. civil rights era, and would like to see tweets that reflect people's current perception of the influence Thurgood Marshall had on court decisions of the era through to today. Mentions of various entities honoring Marshall by being named after him are not relevant.",
+   "title" : "Thurgood Marshall",
+   "topid" : "RTS163",
+   "description" : "Find tweets regarding people's perception of the influence Thurgood Marshall had on civil rights court decisions."
+},
+
+{
+   "narrative" : "The user recently learned how to play mahjong and would like to know of others who play. \"Mahjong\" in one's twitter handle is an indication of a mahjong fan, as is mention of anything about the game. Mahjong sets offered for sale, on the other hand, more likely indicate non-players or people who don't enjoy the game.",
+   "title" : "mahjong",
+   "topid" : "RTS164",
+   "description" : "Who loves mahjong?"
+},
+
+{
+   "narrative" : "The user wants to know about rumored or actual resignations by President Trump's staff, cabinet, or any public or private employee picked by Trump for their job. Calls for the resignation of any Trump picks are also relevant.",
+   "title" : "Trump team resignations",
+   "topid" : "RTS165",
+   "description" : "Find mentions of resignations by any member of Trump's team."
+},
+
+{
+   "narrative" : "The user will be taking his grandson to a Disney park and wants to see others' opinions on the pros and cons of staying at a Disney-owned hotel while there. Information from any of the Disney properties worldwide is of interest.",
+   "title" : "Disney hotels",
+   "topid" : "RTS166",
+   "description" : "What are peoples' experiences staying in a Disney-owned hotel when visiting one of the Disney parks?"
+},
+
+{
+   "narrative" : "The user is a fan of the Bayern Munich football team.  He wants to follow the latest buzz about any possible or confirmed players that transfer to and from the team.  Tweets about talks, deals, contracts and negotiations are all of interest.",
+   "title" : "Bayern Munich transfer",
+   "topid" : "RTS167",
+   "description" : "Find information about player transfers to and from Bayern Munich."
+},
+
+{
+   "narrative" : "The user is a football/soccer fan interested in AS Monaco.  He wants to see all tweets regarding the team's transfer negotiations, payments offered to or made by the trading teams, and details of completed deals.",
+   "title" : "AS Monaco transfers",
+   "topid" : "RTS168",
+   "description" : "Information about player transfers to and from AS Monaco."
+},
+
+{
+   "narrative" : "The user is the parent of an infant, trying to decide about administering the MMR vaccination to her. He is looking for evidence of any measles outbreak in the United States. He wants to see tweets detailing where and when any cases of measles have occurred, the number of confirmed cases, the patients' outcome, and the duration of any outbreaks.",
+   "title" : "measles outbreak",
+   "topid" : "RTS169",
+   "description" : "Find information about a measles outbreak in the U.S."
+},
+
+{
+   "narrative" : "The user needs to come up with a cosplay costume and is looking for ideas.",
+   "title" : "cosplay",
+   "topid" : "RTS170",
+   "description" : "What characters have been cosplayed?"
+},
+
+{
+   "narrative" : "There are arguments pro and con about rescinding the Bears Ears National Monument designation. The user has never been there and would like to know what all the fuss is about.",
+   "title" : "Bears Ears",
+   "topid" : "RTS171",
+   "description" : "Find descriptions or pictures of what is included in the Bears Ears National Monument."
+},
+
+{
+   "narrative" : "The user would like to see reports of any conflicts between Muslims and Coptic Christians in Egypt.",
+   "title" : "Egypt Coptic Muslim",
+   "topid" : "RTS172",
+   "description" : "Find accounts of conflict between Muslims and the Coptic church of Egypt."
+},
+
+{
+   "narrative" : "The user would like to better understand the issues surrounding the common core state educational standards as enacted in the U.S.  She is interested in seeing both arguments pro and con for the standards, as well as information related to alternatives to common core.",
+   "title" : "common core",
+   "topid" : "RTS173",
+   "description" : "What are people's opinions of the common core state educational standards?"
+},
+
+{
+   "narrative" : "The user lives in an area where mosquito infestation is an issue.  Because the user is planning to become pregnant in the near future, she is looking for tweets about what measures are currently being taken for prevention of the Zika virus. Tweets about steps an individual might take to prevent being infected with Zika are also of interest.",
+   "title" : "zika prevention",
+   "topid" : "RTS174",
+   "description" : "Find information on zika prevention recommendations and methods."
+},
+
+{
+   "narrative" : "The user occasionally enjoys watching Judge Judy as a guilty pleasure. She is curious about other people who watch Judge Judy. She assumes that anyone who quotes Judge Judy, tapes episodes, or speaks well of her is a Judge Judy watcher.",
+   "title" : "Judge Judy",
+   "topid" : "RTS175",
+   "description" : "Find people who watch Judge Judy."
+},
+
+{
+   "narrative" : "The user is concerned that Italy's national debt has reached unsustainable levels, and is interested in possible solutions to the problem.  He wants to follow discussions of any possible method for reducing the debt, and is especially interested in the likelihood that the debt will force Italy to leave the euro or the E.U.",
+   "title" : "Italian national debt",
+   "topid" : "RTS176",
+   "description" : "What options does Italy have for reducing its national debt? Might it leave the euro, or even the E.U.?"
+},
+
+{
+   "narrative" : "The user is an apartment dweller who would nonetheless like to grow her own vegetables. She is interested in seeing examples of others who have successfully grown vegetables in container gardens.",
+   "title" : "vegetable container gardens",
+   "topid" : "RTS177",
+   "description" : "Find examples of people successfully growing vegetables in container gardens."
+},
+
+{
+   "narrative" : "The user is looking for information about the prevalence and causes of suicide among members of the military.",
+   "title" : "military suicide",
+   "topid" : "RTS178",
+   "description" : "Find information on military suicides."
+},
+
+{
+   "narrative" : "The user is looking for instances of actual floods, with water inundating rural or urban areas in the U.S. Discussion of flood risk is not relevant unless actual flooding is taking place. Flood warnings or advisories are not relevant.",
+   "title" : "flooding in U.S.",
+   "topid" : "RTS179",
+   "description" : "Find places in the U.S. that have been hit by flooding."
+},
+
+{
+   "narrative" : "The user is a fan of Mayim Bialik and would like to know more about her. Issues she supports are also of interest.",
+   "title" : "Mayim Bialik",
+   "topid" : "RTS180",
+   "description" : "Find information on Mayim Bialik's personal life, other than as a character in The Big Bang Theory."
+},
+
+{
+   "narrative" : "The user is considering fostering a puppy to train it as a Seeing Eye dog.  He would like to see what experiences others have had in training Seeing Eye dogs in this way.",
+   "title" : "Seeing Eye dog training",
+   "topid" : "RTS181",
+   "description" : "What are people's experiences with training Seeing Eye dogs?"
+},
+
+{
+   "narrative" : "The user is a U.S. veteran who relies on the VA hospital system for his health care.  He is interested in seeing reports of specific cases of problems affecting clinical care within the VA hospital system.",
+   "title" : "VA hospital problems",
+   "topid" : "RTS182",
+   "description" : "What problems affecting care have been reported with the U.S. VA hospital system?"
+},
+
+{
+   "narrative" : "The user has read about blue catfish invading many bodies of water and crowding out other fish and species. She would like to see evidence of their presence.",
+   "title" : "blue catfish",
+   "topid" : "RTS183",
+   "description" : "Find evidence of the presence of blue catfish, an invasive species. "
+},
+
+{
+   "narrative" : "The user has a friend in prison who enjoys the prison library. The user would like to help the library in some way and wonders what they need. She also would like to know more about how the prison library might be able to help her friend.",
+   "title" : "prison libraries",
+   "topid" : "RTS184",
+   "description" : "What do prison libraries do for prisoners, and how can one help the prison libraries?"
+},
+
+{
+   "narrative" : "The user is an amateur astronomer who is excited about the upcoming total solar eclipse.  She is interested in seeing how other people are planning to experience the event, including suggestions for how best to view the eclipse, and plans for recording and studying it.",
+   "title" : "solar eclipse",
+   "topid" : "RTS185",
+   "description" : "What are people's plans for viewing the upcoming total solar eclipse?"
+},
+
+{
+   "narrative" : "The user would like to live in a tiny house. She is interested in plans for tiny houses or pre-made houses that she can buy. Experiences of people who have built their own tiny houses, or have bought them, would be useful.",
+   "title" : "tiny houses",
+   "topid" : "RTS186",
+   "description" : "Find information on building tiny houses or pre-made tiny houses for sale."
+},
+
+{
+   "narrative" : "The user would like to see the diversity of different foods people like to take on picnics.",
+   "title" : "picnic foods",
+   "topid" : "RTS187",
+   "description" : "What are people's favorite picnic foods?"
+},
+
+{
+   "narrative" : "The user has a collection of Topps baseball cards from when he was a boy and wants to know the value of his collection.  He is interested in information regarding the value of individual cards, as well as tips on how to buy and sell valuable cards.",
+   "title" : "Topps baseball card sales",
+   "topid" : "RTS188",
+   "description" : "The user would like to see advice on how to buy and sell valuable Topps baseball cards."
+},
+
+{
+   "narrative" : "The user is an outdoors sportsman who is concerned about the possibility of contracting a tick-borne disease, and is looking for the most up-to-date information on the subject.  He wants to see tweets with details about the prevalence of any known or emerging diseases, including the variety of tick that carries them; the geographic areas where the diseased ticks are common; symptoms; available treatments or cures; possible prognoses; and research into new treatments and vaccines. Any tweets regarding warnings and advice to avoid infection also are of interest.",
+   "title" : "tick-borne disease",
+   "topid" : "RTS189",
+   "description" : "Find information about any tick-borne disease."
+},
+
+{
+   "narrative" : "The user is a NASCAR fan who is unable to attend the NASCAR Pocono 400 race. He wants to follow the race day events and activities, including the progress and outcome of the race. He is interested in all aspects that might affect the running of the race, including weather conditions, competing drivers and possible accidents or incidents.",
+   "title" : "NASCAR race Pocono",
+   "topid" : "RTS190",
+   "description" : "Follow information on the progress and outcome of the NASCAR Pocono 400 race."
+},
+
+{
+   "narrative" : "The user isn't sure what to think about Trump spokesperson, Sarah Huckabee Sanders. She is looking for comments that clearly indicate a favorable or unfavorable opinion of her.",
+   "title" : "Sarah Huckabee Sanders",
+   "topid" : "RTS191",
+   "description" : "What are the opinions, pro and con, of Sarah Huckabee Sanders?"
+},
+
+{
+   "narrative" : "The user is a mystery fan and is considering going to Bouchercon, the World Mystery Conference, some year. She wants to know what to expect. What authors will be there?",
+   "title" : "Bouchercon",
+   "topid" : "RTS192",
+   "description" : "Find information on what happens at Bouchercon, the World Mystery Conference."
+},
+
+{
+   "narrative" : "The user is worried about the increasing problem of identity theft, and would like to protect herself.  She is interested in accounts of actual cases of identity theft, with particular focus on the method used to obtain the victim's identity information.",
+   "title" : "identity theft",
+   "topid" : "RTS193",
+   "description" : "Find accounts of people who have had their identities stolen."
+}
+
+]
