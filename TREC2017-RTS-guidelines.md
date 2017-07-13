@@ -130,7 +130,7 @@ similar to what users would type into a search engine. The
 "description" and "narrative" are sentence- and paragraph-long
 elaborations of the information need, respectively.
 
-Here is the initial set of [TREC 2017 Interest Profiles
+Here is the initial set of [TREC 2017 RTS Interest Profiles
 (Topics)](TREC2017-RTS-topics1.json). Note that this is the initial
 set which we are planning to augment based on the interests of the
 mobile assessors.
