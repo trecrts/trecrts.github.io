@@ -15,7 +15,8 @@ information needs.
 + [Issue tracker](https://github.com/trecrts/trecrts.github.io/issues) for discussions on evaluation design
 + [REST API for Evaluation Broker](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
 + [TREC 2017 RTS Track Guidelines](TREC2017-RTS-guidelines.html)
-+ [TREC 2017 RTS Initial Interest Profiles (Topics)](TREC2017-RTS-topics1.json): Note that this is the initial set which we are planning to augment based on the interest of the mobile assessors
++ [TREC 2017 RTS Initial Interest Profiles (Topics)](TREC2017-RTS-topics1.json): Note that this is the initial set which we are planning to augment based on the interest of the mobile assessors.
++ [TREC 2017 RTS Final Interest Profiles (Topics)](TREC2017-RTS-topics-final.json): Includes interest profiles proposed by both the NIST and the mobile assessors.
 
 ## What problems are we trying to solve?
 

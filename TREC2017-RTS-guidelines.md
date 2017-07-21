@@ -178,7 +178,8 @@ POST /assessments/:topid/:clientid
 ```
 
 This enables the opportunity for active learning and other techniques
-that take advantage of user feedback.
+that take advantage of user feedback. Each team is allowed to pull live 
+assessments once every 10 minutes per topic.
 
 See the [REST API
 documentation](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
