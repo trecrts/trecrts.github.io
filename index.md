@@ -47,8 +47,7 @@ figure:
 
 <center><img style="padding-bottom: 15px; padding-top: 5px" src="trecrts-setup.png" width="500px"></center>
 
-The evaluation will occur from July TBD 2017 00:00:00 UTC to July TBD, 2017 23:59:59 UTC.
-During this time, all participating systems
+During the official evaluation period, all participating systems
 will "listen" to the Twitter sample stream using the Twitter streaming
 API and perform the evaluation tasks *in real time*. Systems
 will be provided a list of "interest profiles" (similar to topics in
