@@ -5,7 +5,7 @@ layout: default
 There is growing interest in systems that address prospective
 information needs against continuous document streams, exemplified by
 social media services such as Twitter. Real-Time Summarization (RTS)
-is a track at the 2017 [Text Retrieval Conference
+is a track at the [Text Retrieval Conference
 (TREC)](http://trec.nist.gov) that focuses on these types of
 information needs.
 
@@ -14,9 +14,6 @@ information needs.
 + The track mailing list [trec-rts@googlegroups.com](https://groups.google.com/forum/#!forum/trec-rts) for participants
 + [Issue tracker](https://github.com/trecrts/trecrts.github.io/issues) for discussions on evaluation design
 + [REST API for Evaluation Broker](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
-+ [TREC 2017 RTS Track Guidelines](TREC2017-RTS-guidelines.html)
-+ [TREC 2017 RTS Initial Interest Profiles (Topics)](TREC2017-RTS-topics1.json): Note that this is the initial set which we are planning to augment based on the interest of the mobile assessors.
-+ [TREC 2017 RTS Final Interest Profiles (Topics)](TREC2017-RTS-topics-final.json): Includes interest profiles proposed by both the NIST and the mobile assessors.
 
 ## What problems are we trying to solve?
 
@@ -79,8 +76,11 @@ represents an extension of the [real-time filtering
 task](https://github.com/lintool/twitter-tools/wiki/TREC-2015-Track-Guidelines)
 in the TREC 2015 Microblog Track.
 
-Historic links for TREC 2016:
+Historic links from previous TREC iterations:
 
++ [TREC 2017 RTS Track Guidelines](TREC2017-RTS-guidelines.html)
++ [TREC 2017 RTS Initial Interest Profiles (Topics)](TREC2017-RTS-topics1.json): Note that this is the initial set which we are planning to augment based on the interest of the mobile assessors.
++ [TREC 2017 RTS Final Interest Profiles (Topics)](TREC2017-RTS-topics-final.json): Includes interest profiles proposed by both the NIST and the mobile assessors.
 + [TREC 2016 RTS Track Guidelines](TREC2016-RTS-guidelines.html)
 + [Interest profiles that were assessed from TREC 2015](TREC2015-MB-eval-topics.json)
 + [Additional interest profiles culled from TREC 2015](TREC2015-MB-noeval-topics-culled.json)
