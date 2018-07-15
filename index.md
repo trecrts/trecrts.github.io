@@ -14,6 +14,7 @@ information needs.
 + The track mailing list [trec-rts@googlegroups.com](https://groups.google.com/forum/#!forum/trec-rts) for participants
 + [Issue tracker](https://github.com/trecrts/trecrts.github.io/issues) for discussions on evaluation design
 + [REST API for Evaluation Broker](https://github.com/trecrts/trecrts-eval/tree/master/trecrts-server)
++ [TREC 2018 RTS Track Guidelines](TREC2018-RTS-guidelines.html)
 
 ## What problems are we trying to solve?
 
