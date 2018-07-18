@@ -80,6 +80,7 @@ Historic links from previous TREC iterations:
 
 + [TREC 2018 RTS Track Guidelines](TREC2018-RTS-guidelines.html)
 + [TREC 2018 RTS Final Interest Profiles (Topics)](RTS18_test_profiles.json)
++ [TREC 2018 RTS Crowd Interest Profiles (Topics)](RTS18_crowd_profiles.json)
 + [TREC 2017 RTS Track Guidelines](TREC2017-RTS-guidelines.html)
 + [TREC 2017 RTS Initial Interest Profiles (Topics)](TREC2017-RTS-topics1.json): Note that this is the initial set which we are planning to augment based on the interest of the mobile assessors.
 + [TREC 2017 RTS Final Interest Profiles (Topics)](TREC2017-RTS-topics-final.json): Includes interest profiles proposed by both the NIST and the mobile assessors.
