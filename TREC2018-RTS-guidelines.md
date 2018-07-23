@@ -68,6 +68,8 @@ power outages, etc.). A starting point for
 crawling the Twitter sample stream can be found
 [here](https://github.com/lintool/twitter-tools/wiki/Sampling-the-public-Twitter-stream).
 
+The deadline to submit to Scenario B runs is August 4, 2018.
+
 ## Run Types
 
 Each team will be allowed to submit up to three runs for scenario A
